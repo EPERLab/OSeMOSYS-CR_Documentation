@@ -10,11 +10,8 @@ The OSeMOSYS – CR model
    :maxdepth: 2
    :caption: Contents
 
-   00Abreviations
-   01Introduction
-   02EnergyModelFramework
-   03EnergyModelDatabase
-   04Scenarios
-   05PythonModules
-   99refs
-   999Annexes
+   00_Abreviations
+   01_Introduction
+   02_template_example
+   99_refs
+   
