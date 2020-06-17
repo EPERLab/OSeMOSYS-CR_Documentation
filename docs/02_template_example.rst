@@ -89,19 +89,10 @@ Parameter 2
    :align:   center
    :width:   700 px
    
-   *(a)*
-   
-.. figure:: img/CF.png
-   :align:   center
-   :width:   700 px
-   
-   *(b)*
-   
-   *Figure 2. Parameter 2 for set codification: (a) dry season, (b) rainy season.*
+   *Figure 2. Parameter 2 for set codification.*
    
 Source:
    This is the source. 
    
 Description: 
    This is the description. 
-
