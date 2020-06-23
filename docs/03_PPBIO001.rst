@@ -34,32 +34,86 @@ PPBIO001
 
 
 
-Capacity Factor
+CapacityFactor[r,t,l,y]
 +++++++++
+La ecuación (1) muestran el Capacity Factor para PPBIO001, para cualquier escenario y temporada.
 
-.. figure:: img/CF.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 1. Parameter 1 for set codification.*
-   
+CapacityFactor=0.317   (1)
+
 Source:
    This is the source. 
    
 Description: 
    This is the description. 
 
-Parameter 2
+FixedCost[r,t,y]
 +++++++++
+La ecuación (2) muestran el Fixed Cost para PPBIO001, para cualquier escenario.
 
-.. figure:: img/CF.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 2. Parameter 2 for set codification.*
-   
+FixedCost=44.5   (2)
+
 Source:
    This is the source. 
    
 Description: 
-   This is the description. 
+   This is the description.
+   
+OperationalLife[r,t]
++++++++++
+La ecuación (3) muestra el Operational Life para PPBIO001, para cualquier escenario.
+
+OperationalLife=25   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
++++++++++
+La ecuación (4) muestra el Output Activity Ratio para PPBIO001, para cualquier escenario y asociado al fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.      
+   
+ResidualCapacity[r,t,y]
++++++++++
+La ecuación (5) muestra el Residual Capacity para PPBIO001, para cualquier escenario.
+
+ResidualCapacity=0.03   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.         
+   
+TotalAnnualMaxCapacity[r,t,y]
++++++++++
+La ecuación (6) muestra el Total Annual Max Capacity para PPBIO001, para cualquier escenario.
+
+TotalAnnualMaxCapacity=0.03   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.            
+   
+VariableCost[r,t,m,y]
++++++++++
+La ecuación (7) muestra el Variable Cost para PPBIO001, para cualquier escenario.
+
+VariableCost=0.001   (7)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.               
