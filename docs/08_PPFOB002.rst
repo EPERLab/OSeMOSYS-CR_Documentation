@@ -1,0 +1,119 @@
+PPFOB002
+=====================================
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPFOB.jpg                                                                                           |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPFOB002                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Oil Power Plant (new)                                      |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.034        | 0.034        | 0.034        | 0.034        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.034        | 0.034        | 0.034        | 0.034        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapitalCost[r,t,y]                              | %     | 4650.33      | 4650.33      | 4650.33      | 4650.33      |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 44.5         | 44.5         | 44.5         | 44.5         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Fuel Oil)        | PJ/PJ | 2.5          | 2.5          | 2.5          | 2.5          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            |  Años | 30           | 30           | 30           | 30           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 1.3          | 1.3          | 1.3          | 1.3          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
++++++++++
+La ecuación (1) muestran el Capacity Factor para PPFOB002, para todos los escenarios y temporadas.
+
+CapacityFactor=0.034%   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+CapitalCost[r,t,y]
++++++++++
+La ecuación (2) muestran el Capital Cost para PPFOB002, para todos los escenarios.
+
+CapitalCost=4650.33%   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+
+FixedCost[r,t,y]
++++++++++
+La ecuación (3) muestran el Fixed Cost para PPFOB002, para todos los escenarios.
+
+FixedCost=44.5 [M$/GW]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
++++++++++
+La ecuación (4) muestra el Input Activity Ratio para PPFOB002, para todos los escenarios y asociado al fuel Fuel Oil.
+
+InputActivityRatio=2.5 [PJ/PJ]   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+OperationalLife[r,t]
++++++++++
+La ecuación (5) muestra el Operational Life para PPFOB002, para todos los escenarios.
+
+OperationalLife=30 Años   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
++++++++++
+La ecuación (6) muestra el Output Activity Ratio para PPFOB002, para todos los escenarios y asociado al fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.      
+   
+VariableCost[r,t,m,y]
++++++++++
+La ecuación (7) muestra el Variable Cost para PPFOB002, para todos los escenarios.
+
+VariableCost=1.3 [M$/PJ]   (7)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.    
