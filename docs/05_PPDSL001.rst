@@ -120,11 +120,11 @@ Source:
 Description: 
    This is the description.            
    
-VariableCost[r,t,m,y] [M%/PJ]
+VariableCost[r,t,m,y]
 +++++++++
 La ecuación (8) muestra el Variable Cost para PPDSL001, para todos los escenarios.
 
-VariableCost=1.3   (8)
+VariableCost=1.3 [M%/PJ]   (8)
 
 Source:
    This is the source. 
