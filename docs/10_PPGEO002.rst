@@ -1,0 +1,160 @@
+PPGEO002
+=====================================
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPGEO.jpg                                                                                           |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPGEO002                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Geothermal Power Plant (new)                               |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.634        | 0.89         | 0.89         | 0.89         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.634        | 0.89         | 0.89         | 0.89         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapitalCost[r,t,y]                              | %     | 7828.28      | 7828.28      | 7828.28      | 7828.28      |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 44.5         | 44.5         | 44.5         | 44.5         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Geothermal       | PJ/PJ | 1            | 1            | 1            | 1            |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            |  Años | 40           | 40           | 40           | 40           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.2          | 0.2          | 0.35         | 0.5          |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMinCapacityInvestment[r,t,y]         |  GW   | 0            | 0.055        | 0            | 0            |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
++++++++++
+La figura 1 muestra el Capacity Factor para PPGEO002, para todos los escenarios y temporadas.
+
+.. figure:: img/PPGEO002_CapacityFactor.png
+   :align:   center
+   :width:   700 px
+   
+   *Figura 1) Capacity Factor de PPGEO002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+CapitalCost[r,t,y]
++++++++++
+La ecuación (1) muestran el Capital Cost para PPGEO002, para todos los escenarios.
+
+CapitalCost=7828.28%   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+
+FixedCost[r,t,y]
++++++++++
+La ecuación (2) muestran el Fixed Cost para PPGEO002, para todos los escenarios.
+
+FixedCost=44.5 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
++++++++++
+La ecuación (3) muestra el Input Activity Ratio para PPGEO002, para todos los escenarios y asociado al fuel Geothermal Energy.
+
+InputActivityRatio=1   [PJ/PJ]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+OperationalLife[r,t]
++++++++++
+La ecuación (4) muestra el Operational Life para PPGEO002, para todos los escenarios.
+
+OperationalLife=40 Años   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
++++++++++
+La ecuación (5) muestra el Output Activity Ratio para PPGEO002, para todos los escenarios y asociado al fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+TotalAnnualMaxCapacity[r,t,y]
++++++++++
+La figura 2 muestra el Total Annual Max Capacity para PPGEO002, para todos los escenarios.
+
+.. figure:: img/PPGEO002_TotalAnnualMaxCapacity.png
+   :align:   center
+   :width:   700 px
+   
+   *Figura 2) Total Annual Max Capacity de PPGEO002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+TotalAnnualMinCapacityInvestment[r,t,y]
++++++++++
+La figura 3 muestra el Total Annual Min Capacity Investment para PPGEO002, para todos los escenarios.
+
+.. figure:: img/PPGEO002_TotalAnnualMinCapacityInvestment.png
+   :align:   center
+   :width:   700 px
+   
+   *Figura 2) Total Annual Max Capacity de PPGEO002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+VariableCost[r,t,m,y]
++++++++++
+La ecuación (6) muestra el Variable Cost para PPGEO002, para todos los escenarios.
+
+VariableCost=1.3 [M$/PJ]   (7)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.    
