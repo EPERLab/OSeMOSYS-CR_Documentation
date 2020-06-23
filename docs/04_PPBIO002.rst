@@ -103,24 +103,10 @@ La figura 1 muestra el Total Annual Max Capacity para PPBIO002, para todos los e
    :align:   center
    :width:   700 px
    
-   *Figure 2. Parameter 2 for set codification.*
+   *Figura 1) Total Annual Max Capacity de PPBIO002.*
    
 Source:
    This is the source. 
    
 Description: 
    This is the description.      
-
-Parameter 2
-+++++++++
-
-.. figure:: img/CF.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 2. Parameter 2 for set codification.*
-   
-Source:
-   This is the source. 
-   
-Description: 
