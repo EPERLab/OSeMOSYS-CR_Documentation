@@ -99,7 +99,7 @@ TotalAnnualMaxCapacity[r,t,y]
 +++++++++
 La figura 1 muestra el Total Annual Max Capacity para PPBIO002, para todos los escenarios.
 
-.. figure:: img/CF.png
+.. figure:: img/PPBIO002_TotalAnnualMaxCapacity.png
    :align:   center
    :width:   700 px
    
