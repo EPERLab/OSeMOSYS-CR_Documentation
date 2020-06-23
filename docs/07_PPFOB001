@@ -1,0 +1,119 @@
+PPBIO001
+=====================================
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPBIO.jpg                                                                                           |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPBIO001                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Biomass Power Plant (existing)                             |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.317        | 0.317        | 0.317        | 0.317        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.317        | 0.317        | 0.317        | 0.317        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 44.5         | 44.5         | 44.5         | 44.5         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            |  Años | 25           | 25           | 25           | 25           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| ResidualCapacity[r,t,y]                         |  GW   | 0.03         | 0.03         | 0.03         | 0.03         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.03         | 0.03         | 0.03         | 0.03         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
++++++++++
+La ecuación (1) muestran el Capacity Factor para PPBIO001, para cualquier escenario y temporada.
+
+CapacityFactor=0.317   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+
+FixedCost[r,t,y]
++++++++++
+La ecuación (2) muestran el Fixed Cost para PPBIO001, para cualquier escenario.
+
+FixedCost=44.5   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+OperationalLife[r,t]
++++++++++
+La ecuación (3) muestra el Operational Life para PPBIO001, para cualquier escenario.
+
+OperationalLife=25   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
++++++++++
+La ecuación (4) muestra el Output Activity Ratio para PPBIO001, para cualquier escenario y asociado al fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.      
+   
+ResidualCapacity[r,t,y]
++++++++++
+La ecuación (5) muestra el Residual Capacity para PPBIO001, para cualquier escenario.
+
+ResidualCapacity=0.03   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.         
+   
+TotalAnnualMaxCapacity[r,t,y]
++++++++++
+La ecuación (6) muestra el Total Annual Max Capacity para PPBIO001, para cualquier escenario.
+
+TotalAnnualMaxCapacity=0.03   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.            
+   
+VariableCost[r,t,m,y]
++++++++++
+La ecuación (7) muestra el Variable Cost para PPBIO001, para cualquier escenario.
+
+VariableCost=0.001   (7)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.               
