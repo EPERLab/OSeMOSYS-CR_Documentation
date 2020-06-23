@@ -57,7 +57,7 @@ Description:
    
 CapitalCost[r,t,y]
 +++++++++
-La ecuación (1) muestran el Capital Cost para PPGEO002, para todos los escenarios.
+La ecuación (1) muestra el Capital Cost para PPGEO002, para todos los escenarios.
 
 CapitalCost=7828.28%   (1)
 
@@ -69,7 +69,7 @@ Description:
 
 FixedCost[r,t,y]
 +++++++++
-La ecuación (2) muestran el Fixed Cost para PPGEO002, para todos los escenarios.
+La ecuación (2) muestra el Fixed Cost para PPGEO002, para todos los escenarios.
 
 FixedCost=44.5 [M$/GW]   (2)
 
