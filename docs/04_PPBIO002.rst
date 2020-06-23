@@ -39,11 +39,77 @@ CapacityFactor[r,t,l,y]
 +++++++++
 La ecuación (1) muestran el Capacity Factor para PPBIO002, para todos los escenarios y temporadas.
 
+CapacityFactor=0.75   (1)
+
 Source:
    This is the source. 
    
 Description: 
-   This is the description. 
+   This is the description.
+   
+CapitalCost[r,t,y]
++++++++++
+La ecuación (2) muestran el Capital Cost para PPBIO002, para todos los escenarios.
+
+CapitalCost=2463.28   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+FixedCost[r,t,y]
++++++++++
+La ecuación (3) muestran el Fixed Cost para PPBIO002, para todos los escenarios.
+
+FixedCost=44.5   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.  
+   
+OperationalLife[r,t]
++++++++++
+La ecuación (4) muestra el Operational Life para PPBIO002, para todos los escenarios.
+
+OperationalLife=25   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.  
+   
+OutputActivityRatio[r,t,f,m,y]
++++++++++
+La ecuación (5) muestra el Output Activity Ratio para PPBIO002, para todos los escenarios y asociado al fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+TotalAnnualMaxCapacity[r,t,y]
++++++++++
+La figura 1 muestra el Total Annual Max Capacity para PPBIO002, para todos los escenarios.
+
+.. figure:: img/CF.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 2. Parameter 2 for set codification.*
+   
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.      
 
 Parameter 2
 +++++++++
