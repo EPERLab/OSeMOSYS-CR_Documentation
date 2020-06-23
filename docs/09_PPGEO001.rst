@@ -57,7 +57,7 @@ FixedCost[r,t,y]
 +++++++++
 La ecuación (1) muestran el Fixed Cost para PPGEO001, para todos los escenarios.
 
-FixedCost=44.5   (1)
+FixedCost=44.5 [M$/GW]   (1)
 
 Source:
    This is the source. 
@@ -69,7 +69,7 @@ InputActivityRatio[r,t,f,m,y]
 +++++++++
 La ecuación (2) muestra el Input Activity Ratio para PPGEO001, para todos los escenarios y asociado al fuel Geothermal Energy.
 
-InputActivityRatio=2.85   (2)
+InputActivityRatio=2.85 [PJ/PJ]   (2)
 
 Source:
    This is the source. 
@@ -81,7 +81,7 @@ OperationalLife[r,t]
 +++++++++
 La ecuación (3) muestra el Operational Life para PPGEO001, para todos los escenarios.
 
-OperationalLife=40   (3)
+OperationalLife=40 Años   (3)
 
 Source:
    This is the source. 
@@ -93,7 +93,7 @@ OutputActivityRatio[r,t,f,m,y]
 +++++++++
 La ecuación (4) muestra el Output Activity Ratio para PPGEO001, para todos los escenarios y asociado al fuel Electricity Supply by Plants.
 
-OutputActivityRatio=1   (4)
+OutputActivityRatio=1 [PJ/PJ]   (4)
 
 Source:
    This is the source. 
@@ -105,7 +105,7 @@ ResidualCapacity[r,t,y]
 +++++++++
 La ecuación (5) muestra el Residual Capacity para PPGEO001, para todos los escenarios.
 
-ResidualCapacity=0.206   (5)
+ResidualCapacity=0.206 [GW]   (5)
 
 Source:
    This is the source. 
@@ -117,7 +117,7 @@ TotalAnnualMaxCapacity[r,t,y]
 +++++++++
 La ecuación (6) muestra el Total Annual Max Capacity para PPGEO001, para todos los escenarios.
 
-TotalAnnualMaxCapacity=0.206   (6)
+TotalAnnualMaxCapacity=0.206 [GW]   (6)
 
 Source:
    This is the source. 
@@ -129,7 +129,7 @@ VariableCost[r,t,m,y]
 +++++++++
 La ecuación (7) muestra el Variable Cost para PPGEO001, para todos los escenarios.
 
-VariableCost=0.001   (7)
+VariableCost=0.001 [M$/PJ]   (7)
 
 Source:
    This is the source. 
