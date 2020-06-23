@@ -110,3 +110,15 @@ Source:
    
 Description: 
    This is the description.      
+
+VariableCost[r,t,m,y]
++++++++++
+La ecuación (6) muestra el Variable Cost para PPBIO002, para todos los escenarios.
+
+VariableCost=0.001   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.  
