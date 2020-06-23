@@ -40,7 +40,7 @@ CapacityFactor[r,t,l,y]
 +++++++++
 La ecuación (1) muestran el Capacity Factor para PPFOB001, para todos los escenarios y temporadas. 
 
-CapacityFactor=0.034   (1)
+CapacityFactor=0.034%   (1)
 
 Source:
    This is the source. 
@@ -52,7 +52,7 @@ FixedCost[r,t,y]
 +++++++++
 La ecuación (2) muestran el Fixed Cost para PPFOB001, para todos los escenarios.
 
-FixedCost=44.5   (2)
+FixedCost=44.5 [M$/GW]   (2)
 
 Source:
    This is the source. 
@@ -64,7 +64,7 @@ InputActivityRatio[r,t,f,m,y]
 +++++++++
 La ecuación (3) muestra el Input Activity Ratio para PPFOB001, para todos los escenarios y asociado al fuel Fuel Oil.
 
-InputActivityRatio=2.85   (3)
+InputActivityRatio=2.85 [PJ/PJ]   (3)
 
 Source:
    This is the source. 
@@ -76,7 +76,7 @@ OperationalLife[r,t]
 +++++++++
 La ecuación (4) muestra el Operational Life para PPFOB001, para todos los escenarios.
 
-OperationalLife=30   (4)
+OperationalLife=30 Años   (4)
 
 Source:
    This is the source. 
@@ -88,7 +88,7 @@ OutputActivityRatio[r,t,f,m,y]
 +++++++++
 La ecuación (5) muestra el Output Activity Ratio para PPFOB001, para todos los escenarios y asociado al fuel Electricity Supply by Plants.
 
-OutputActivityRatio=1   (5)
+OutputActivityRatio=1 [PJ/PJ]   (5)
 
 Source:
    This is the source. 
@@ -100,7 +100,7 @@ ResidualCapacity[r,t,y]
 +++++++++
 La ecuación (6) muestra el Residual Capacity para PPFOB001, para todos los escenarios.
 
-ResidualCapacity=0.214   (6)
+ResidualCapacity=0.214 [GW]   (6)
 
 Source:
    This is the source. 
@@ -112,7 +112,7 @@ TotalAnnualMaxCapacity[r,t,y]
 +++++++++
 La ecuación (7) muestra el Total Annual Max Capacity para PPFOB001, para todos los escenarios.
 
-TotalAnnualMaxCapacity=0.214   (7)
+TotalAnnualMaxCapacity=0.214 [GW]   (7)
 
 Source:
    This is the source. 
@@ -124,7 +124,7 @@ VariableCost[r,t,m,y]
 +++++++++
 La ecuación (8) muestra el Variable Cost para PPFOB001, para todos los escenarios.
 
-VariableCost=1.3   (8)
+VariableCost=1.3 [M$/PJ]   (8)
 
 Source:
    This is the source. 
