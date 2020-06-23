@@ -1,4 +1,4 @@
-PPDSL001
+PPDSL002
 =====================================
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -6,9 +6,9 @@ PPDSL001
 |    :align:   center                                                                                                 |
 |    :width:   500 px                                                                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| Set codification:                                       |PPDSL001                                                   |
+| Set codification:                                       |PPDSL002                                                   |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| Description:                                            |Diesel Power Plant (existing)                              |
+| Description:                                            |Diesel Power Plant (new)                                   |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -18,18 +18,16 @@ PPDSL001
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.034        | 0.034        | 0.034        | 0.034        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapitalCost[r,t,y]                              | %     | 1269.78      | 1269.78      | 1269.78      | 1269.78      |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | FixedCost[r,t,y]                                | M$/GW | 44.5         | 44.5         | 44.5         | 44.5         |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| InputActivityRatio[r,t,f,m,y] (Diesel)          | M$/GW | 2.85         | 2.85         | 2.85         | 2.85         |
+| InputActivityRatio[r,t,f,m,y] (Diesel)          | M$/GW | 2.5          | 2.5          | 2.5          | 2.5          |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OperationalLife[r,t]                            |  Años | 30           | 30           | 30           | 30           |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
 | Supply by Plants)                               |       |              |              |              |              |
-+-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| ResidualCapacity[r,t,y]                         |  GW   | 0.381        | 0.381        | 0.381        | 0.381        |
-+-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.381        | 0.381        | 0.381        | 0.381        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | VariableCost[r,t,m,y]                           | M$/PJ | 1.3          | 1.3          | 1.3          | 1.3          |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -38,7 +36,7 @@ PPDSL001
 
 CapacityFactor[r,t,l,y]
 +++++++++
-La ecuación (1) muestran el Capacity Factor para PPDSL001, para todos los escenarios y temporadas.
+La ecuación (1) muestran el Capacity Factor para PPDSL002, para todos los escenarios y temporadas.
 
 CapacityFactor=0.034   (1)
 
@@ -47,12 +45,24 @@ Source:
    
 Description: 
    This is the description. 
+   
+CapitalCost[r,t,y]
++++++++++
+La ecuación (2) muestran el Capital Cost para PPDSL002, para todos los escenarios.
+
+CapitalCost=1269.78   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
 
 FixedCost[r,t,y]
 +++++++++
-La ecuación (2) muestran el Fixed Cost para PPDSL001, para todos los escenarios.
+La ecuación (3) muestran el Fixed Cost para PPDSL002, para todos los escenarios.
 
-FixedCost=44.5   (2)
+FixedCost=44.5   (3)
 
 Source:
    This is the source. 
@@ -62,9 +72,9 @@ Description:
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
-La ecuación (3) muestra el Input Activity Ratio para PPDSL001, para todos los escenarios y asociado al fuel Diesel.
+La ecuación (4) muestra el Input Activity Ratio para PPDSL002, para todos los escenarios y asociado al fuel Diesel.
 
-InputActivityRatio=2.85   (3)
+InputActivityRatio=2.5   (4)
 
 Source:
    This is the source. 
@@ -74,9 +84,9 @@ Description:
    
 OperationalLife[r,t]
 +++++++++
-La ecuación (4) muestra el Operational Life para PPDSL001, para todos los escenarios.
+La ecuación (5) muestra el Operational Life para PPDSL002, para todos los escenarios.
 
-OperationalLife=30   (4)
+OperationalLife=30   (5)
 
 Source:
    This is the source. 
@@ -86,9 +96,9 @@ Description:
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
-La ecuación (5) muestra el Output Activity Ratio para PPDSL001, para todos los escenarios y asociado al fuel Electricity Supply by Plants.
+La ecuación (6) muestra el Output Activity Ratio para PPDSL002, para todos los escenarios y asociado al fuel Electricity Supply by Plants.
 
-OutputActivityRatio=1   (5)
+OutputActivityRatio=1   (6)
 
 Source:
    This is the source. 
@@ -96,35 +106,11 @@ Source:
 Description: 
    This is the description.      
    
-ResidualCapacity[r,t,y]
-+++++++++
-La ecuación (6) muestra el Residual Capacity para PPDSL001, para todos los escenarios.
-
-ResidualCapacity=0.381   (6)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.         
-   
-TotalAnnualMaxCapacity[r,t,y]
-+++++++++
-La ecuación (7) muestra el Total Annual Max Capacity para PPDSL001, para todos los escenarios.
-
-TotalAnnualMaxCapacity=0.381   (7)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.            
-   
 VariableCost[r,t,m,y]
 +++++++++
-La ecuación (8) muestra el Variable Cost para PPDSL001, para todos los escenarios.
+La ecuación (7) muestra el Variable Cost para PPDSL002, para todos los escenarios.
 
-VariableCost=1.3   (8)
+VariableCost=1.3   (7)
 
 Source:
    This is the source. 
