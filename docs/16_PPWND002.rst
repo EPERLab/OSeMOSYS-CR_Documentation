@@ -67,7 +67,7 @@ Description:
 
 FixedCost[r,t,y]
 +++++++++
-La ecuación (2) muestran el Fixed Cost para PPWND002, para todos los escenarios.
+La ecuación (2) muestra el Fixed Cost para PPWND002, para todos los escenarios.
 
 FixedCost=179.1 [M$/GW]   (2)
 
