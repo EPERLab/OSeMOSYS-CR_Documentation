@@ -43,7 +43,7 @@ La ecuación (1) muestra el Capacity Factor para PPWND002, para todos los escena
 
 CapacityFactor=0.572%   (1)
 
-Source:
+Fuente:
    This is the source. 
    
 Description: 
