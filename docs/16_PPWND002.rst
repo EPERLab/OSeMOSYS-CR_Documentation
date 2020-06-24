@@ -39,7 +39,7 @@ PPWND002
 
 CapacityFactor[r,t,l,y]
 +++++++++
-La ecuación (1) muestran el Capacity Factor para PPWND002, para todos los escenarios y temporadas.
+La ecuación (1) muestra el Capacity Factor para PPWND002, para todos los escenarios y temporadas.
 
 CapacityFactor=0.572%   (1)
 
