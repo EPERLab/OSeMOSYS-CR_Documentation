@@ -55,7 +55,7 @@ CapitalCost[r,t,y]
 +++++++++
 La figura 1 muestra el Capital Cost para PPPVT002, para todos los escenarios.
 
-.. figure:: img/PPPVT02_CapitalCost.png
+.. figure:: img/PPPVT002_CapitalCost.png
    :align:   center
    :width:   700 px
    
