@@ -121,7 +121,7 @@ La figura 2 muestra el Total Annual Max Capacity para PPPVD002, para todos los e
    :align:   center
    :width:   700 px
    
-   *Figura 2) Total Annual Max Capacity de PPHROR002.*
+   *Figura 2) Total Annual Max Capacity de PPPVD002.*
 
 Source:
    This is the source. 
