@@ -1,0 +1,160 @@
+PPWNT002
+=====================================
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPWN.jpg                                                                                           |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPWNT002                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Wind Power Plant Transmission (new)                        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.572        | 0.572        | 0.572        | 0.572        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.572        | 0.572        | 0.572        | 0.572        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapitalCost[r,t,y]                              | %     | 2584.5       | 2353.5       | 2353.5       | 2353.5       |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 179.1        | 179.1        | 179.1        | 179.1        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Geothermal       | PJ/PJ | 1            | 1            | 1            | 1            |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            |  Años | 25           | 25           | 25           | 25           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.3          | 0.3          | 0.65         | 1            |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMinCapacityInvestment[r,t,y]         |  GW   | 0            | 0            | 0            | 0            |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
++++++++++
+La ecuación (1) muestran el Capacity Factor para PPWNT002, para todos los escenarios y temporadas.
+
+CapacityFactor=0.572%   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+CapitalCost[r,t,y]
++++++++++
+La figura 1 muestra el Capital Cost para PPWNT002, para todos los escenarios.
+
+.. figure:: img/PPWNT002_CapitalCost.png
+   :align:   center
+   :width:   700 px
+   
+   *Figura 1) Capital Cost de PPWNT002.*
+   
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+
+FixedCost[r,t,y]
++++++++++
+La ecuación (2) muestran el Fixed Cost para PPWNT002, para todos los escenarios.
+
+FixedCost=179.1 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
++++++++++
+La ecuación (3) muestra el Input Activity Ratio para PPWNT002, para todos los escenarios y asociado al fuel Eolic Energy.
+
+InputActivityRatio=1   [PJ/PJ]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+OperationalLife[r,t]
++++++++++
+La ecuación (4) muestra el Operational Life para PPWNT002, para todos los escenarios.
+
+OperationalLife=25 Años   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
++++++++++
+La ecuación (5) muestra el Output Activity Ratio para PPWNT002, para todos los escenarios y asociado al fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+   
+TotalAnnualMaxCapacity[r,t,y]
++++++++++
+La figura 2 muestra el Total Annual Max Capacity para PPWNT002, para todos los escenarios.
+
+.. figure:: img/PPWNT002_TotalAnnualMaxCapacity.png
+   :align:   center
+   :width:   700 px
+   
+   *Figura 2) Total Annual Max Capacity de PPWNT002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+TotalAnnualMinCapacityInvestment[r,t,y]
++++++++++
+La figura 3 muestra el Total Annual Min Capacity Investment para PPWNT002, para todos los escenarios.
+
+.. figure:: img/PPWNT002_TotalAnnualMinCapacityInvestment.png
+   :align:   center
+   :width:   700 px
+   
+   *Figura 3) Total Annual Min Capacity Investment de PPWNT002.*
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+VariableCost[r,t,m,y]
++++++++++
+La ecuación (6) muestra el Variable Cost para PPWNT002, para todos los escenarios.
+
+VariableCost=0.001 [M$/PJ]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.    
