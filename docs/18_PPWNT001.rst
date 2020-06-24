@@ -1,0 +1,134 @@
+PPWNT001
+=====================================
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/PPWN.jpg                                                                                            |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |PPWNT001                                                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            |Wind Power Plant Transmission (existing)                   |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
++=================================================+=======+==============+==============+==============+==============+
+| CapacityFactor[r,t,l,y] (Dry)                   |   %   | 0.572        | 0.572        | 0.572        | 0.572        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.572        | 0.572        | 0.572        | 0.572        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| FixedCost[r,t,y]                                | M$/GW | 179.1        | 179.1        | 179.1        | 179.1        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| InputActivityRatio[r,t,f,m,y] (Eolic            | PJ/PJ | 1            | 1            | 1            | 1            |
+| energy)                                         |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OperationalLife[r,t]                            |  Años | 25           | 25           | 25           | 25           |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
+| Supply by Plants)                               |       |              |              |              |              |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| ResidualCapacity[r,t,y]                         |  GW   | 0.39         | 0.39         | 0.39         | 0.39         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| TotalAnnualMaxCapacity[r,t,y]                   |  GW   | 0.39         | 0.39         | 0.39         | 0.39         |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| VariableCost[r,t,m,y]                           | M$/PJ | 0.001        | 0.001        | 0.001        | 0.001        |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
+
+CapacityFactor[r,t,l,y]
++++++++++
+La ecuación (1) muestra el Capacity Factor para PPWNT001, para todos los escenarios y temporadas.
+
+CapacityFactor=0.572%   (1)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
+
+FixedCost[r,t,y]
++++++++++
+La ecuación (2) muestra el Fixed Cost para PPWNT001, para todos los escenarios.
+
+FixedCost=179.1 [M$/GW]   (2)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
+InputActivityRatio[r,t,f,m,y]
++++++++++
+La ecuación (3) muestra el Input Activity Ratio para PPWNT001, para todos los escenarios y asociado al fuel Eolic Energy. 
+
+InputActivityRatio=1 [PJ/PJ]   (3)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OperationalLife[r,t]
++++++++++
+La ecuación (4) muestra el Operational Life para PPWNT001, para todos los escenarios.
+
+OperationalLife=25 Años   (4)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.   
+   
+OutputActivityRatio[r,t,f,m,y]
++++++++++
+La ecuación (5) muestra el Output Activity Ratio para PPWNT001, para todos los escenarios y asociado al fuel Electricity Supply by Plants.
+
+OutputActivityRatio=1 [PJ/PJ]   (5)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.      
+   
+ResidualCapacity[r,t,y]
++++++++++
+La ecuación (6) muestra el Residual Capacity para PPWNT001, para todos los escenarios.
+
+ResidualCapacity=0.39 [GW]   (6)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.         
+   
+TotalAnnualMaxCapacity[r,t,y]
++++++++++
+La ecuación (7) muestra el Total Annual Max Capacity para PPWNT001, para todos los escenarios. 
+
+TotalAnnualMaxCapacity=0.39 [GW]   (7)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.            
+   
+VariableCost[r,t,m,y]
++++++++++
+La ecuación (8) muestra el Variable Cost para PPWNT001, para todos los escenarios.
+
+VariableCost=0.001 [M$/PJ]   (8)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description. 
