@@ -18,14 +18,14 @@ PPHROR002
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.4966       | 0.6          | 0.6          | 0.6          |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| CapitalCost[r,t,y]                              | %     | 4385.15      | 4385.15      | 4385.15      | 4385.15      |
+| CapitalCost[r,t,y]                              | M$/GW | 4385.15      | 4385.15      | 4385.15      | 4385.15      |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | FixedCost[r,t,y]                                | M$/GW | 47.9         | 47.9         | 47.9         | 47.9         |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | InputActivityRatio[r,t,f,m,y] (Hydraulic        | PJ/PJ | 1            | 1            | 1            | 1            |
 | energy)                                         |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| OperationalLife[r,t]                            |  Años | 60           | 60           | 60           | 60           |
+| OperationalLife[r,t]                            | Years | 60           | 60           | 60           | 60           |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
 | Supply by Plants)                               |       |              |              |              |              |
@@ -41,13 +41,13 @@ PPHROR002
 
 CapacityFactor[r,t,l,y]
 +++++++++
-La Figura 1 muestra el Capacity Factor para PPHROR002, para todos los escenarios y temporadas.
+The figure 1 shows the Capacity Factor for PPHROR002, for every scenario and season.
 
 .. figure:: img/PPHROR002_CapacityFactor.png
    :align:   center
    :width:   700 px
    
-   *Figura 1) Capacity Factor de PPHROR002.*
+   *Figura 1) Capacity Factor for PPHROR002.*
 
 Source:
    This is the source. 
@@ -57,9 +57,9 @@ Description:
    
 CapitalCost[r,t,y]
 +++++++++
-La ecuación (1) muestra el Capital Cost para PPHROR002, para todos los escenarios.
+The equation (1) shows the Capital Cost for PPHROR002, para todos los escenarios.
 
-CapitalCost=4385.15%   (1)
+CapitalCost=4385.15 [M$/GW]   (1)
 
 Source:
    This is the source. 
@@ -69,7 +69,7 @@ Description:
 
 FixedCost[r,t,y]
 +++++++++
-La ecuación (2) muestra el Fixed Cost para PPHROR002, para todos los escenarios.
+The equation (2) shows the Fixed Cost for PPHROR002, for every scenario.
 
 FixedCost=47.9 [M$/GW]   (2)
 
@@ -81,7 +81,7 @@ Description:
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
-La ecuación (3) muestra el Input Activity Ratio para PPHROR002, para todos los escenarios  y asociado al fuel Hydraulic Energy.
+The equation (3) shows the Input Activity Ratio for PPHROR002, for every scenario and associated to the fuel Hydraulic Energy.
 
 InputActivityRatio=1   [PJ/PJ]   (3)
 
@@ -93,9 +93,9 @@ Description:
    
 OperationalLife[r,t]
 +++++++++
-La ecuación (4) muestra el Operational Life para PPHROR002, para todos los escenarios.
+The equation (4) shows the Operational Life for PPHROR002, for every scenario.
 
-OperationalLife=60 Años   (4)
+OperationalLife=60 Years   (4)
 
 Source:
    This is the source. 
@@ -105,7 +105,7 @@ Description:
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
-La ecuación (5) muestra el Output Activity Ratio para PPHROR002, para todos los escenarios y asociado al fuel Electricity Supply by Plants.
+The equation (5) shows the Output Activity Ratio for PPHROR002, for every scenario and associated to the fuel Electricity Supply by Plants.
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
@@ -117,13 +117,13 @@ Description:
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
-La figura 2 muestra el Total Annual Max Capacity para PPHROR002, para todos los escenarios.
+The figure 2 shows the Total Annual Max Capacity for PPHROR002, for every scenario.
 
 .. figure:: img/PPHROR002_TotalAnnualMaxCapacity.png
    :align:   center
    :width:   700 px
    
-   *Figura 2) Total Annual Max Capacity de PPHROR002.*
+   *Figura 2) Total Annual Max Capacity for PPHROR002.*
 
 Source:
    This is the source. 
@@ -133,13 +133,13 @@ Description:
    
 TotalAnnualMinCapacityInvestment[r,t,y]
 +++++++++
-La figura 3 muestra el Total Annual Min Capacity Investment para PPHROR002, para todos los escenarios.
+The figure 3 shows the Total Annual Min Capacity Investment for PPHROR002, for every scenario.
 
 .. figure:: img/PPHROR002_TotalAnnualMinCapacityInvestment.png
    :align:   center
    :width:   700 px
    
-   *Figura 3) Total Annual Min Capacity Investment de PPHROR002.*
+   *Figura 3) Total Annual Min Capacity Investment for PPHROR002.*
 
 Source:
    This is the source. 
@@ -149,7 +149,7 @@ Description:
    
 VariableCost[r,t,m,y]
 +++++++++
-La ecuación (6) muestra el Variable Cost para PPHROR002, para todos los escenarios.
+The equation (6) shows the Variable Cost for PPHROR002, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (6)
 
