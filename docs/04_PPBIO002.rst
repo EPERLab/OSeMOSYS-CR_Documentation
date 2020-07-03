@@ -75,7 +75,7 @@ OperationalLife[r,t]
 +++++++++
 The equation (4) shows the Operational Life for PPBIO002, for every scenario.
 
-OperationalLife=25 Años   (4)
+OperationalLife=25 Years   (4)
 
 Source:
    This is the source. 
@@ -103,7 +103,7 @@ The figure 1 shows the Total Annual Max Capacity for PPBIO002, for every scenari
    :align:   center
    :width:   700 px
    
-   *Figura 1) Total Annual Max Capacity de PPBIO002.*
+   *Figure 1) Total Annual Max Capacity for PPBIO002.*
    
 Source:
    This is the source. 
