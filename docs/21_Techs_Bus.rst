@@ -75,7 +75,7 @@ OutputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (4) shows the Output Activity Ratio for Techs_Bus, for every scenario and associated to the fuel Transport Demand Passenger Public.
 
-OutputActivityRatio=1 [Gpkm/Gvkm]   (4)
+OutputActivityRatio=25.66 [Gpkm/Gvkm]   (4)
 
 Source:
    This is the source. 
