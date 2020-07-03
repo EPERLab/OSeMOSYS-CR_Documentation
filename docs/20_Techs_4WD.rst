@@ -117,7 +117,7 @@ The figure 3 shows the Total Technology Annual Activity Lower Limit for Techs_4W
    
    *Figure 3) Total Technology Annual Activity Lower Limit for Techs_4WD for BAU scenario.*
    
-The figure 4 shows the Total Annual Min Capacity Investment for Techs_4WD, for the NDP and OP15C scenarios.
+The figure 4 shows the Total Technology Annual Activity Lower Limit for Techs_4WD, for the NDP and OP15C scenarios.
 
 .. figure:: img/Techs_4WD_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
    :align:   center
