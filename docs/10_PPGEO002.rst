@@ -18,14 +18,14 @@ PPGEO002
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.634        | 0.89         | 0.89         | 0.89         |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| CapitalCost[r,t,y]                              | %     | 7828.28      | 7828.28      | 7828.28      | 7828.28      |
+| CapitalCost[r,t,y]                              | M$/GW | 7828.28      | 7828.28      | 7828.28      | 7828.28      |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | FixedCost[r,t,y]                                | M$/GW | 44.5         | 44.5         | 44.5         | 44.5         |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | InputActivityRatio[r,t,f,m,y] (Geothermal       | PJ/PJ | 1            | 1            | 1            | 1            |
 | energy)                                         |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| OperationalLife[r,t]                            |  Años | 40           | 40           | 40           | 40           |
+| OperationalLife[r,t]                            | Years | 40           | 40           | 40           | 40           |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
 | Supply by Plants)                               |       |              |              |              |              |
@@ -41,7 +41,7 @@ PPGEO002
 
 CapacityFactor[r,t,l,y]
 +++++++++
-La figura 1 muestra el Capacity Factor para PPGEO002, para todos los escenarios y temporadas.
+La figura 1 muestra el Capacity Factor para PPGEO002, for every scenario and season.
 
 .. figure:: img/PPGEO002_CapacityFactor.png
    :align:   center
@@ -57,9 +57,9 @@ Description:
    
 CapitalCost[r,t,y]
 +++++++++
-La ecuación (1) muestra el Capital Cost para PPGEO002, para todos los escenarios.
+The equation (1) shows the Capital Cost for PPGEO002, for every scenario.
 
-CapitalCost=7828.28%   (1)
+CapitalCost=7828.28 [M$/GW]   (1)
 
 Source:
    This is the source. 
@@ -69,7 +69,7 @@ Description:
 
 FixedCost[r,t,y]
 +++++++++
-La ecuación (2) muestra el Fixed Cost para PPGEO002, para todos los escenarios.
+The equation (2) shows the Fixed Cost for PPGEO002, for every scenario.
 
 FixedCost=44.5 [M$/GW]   (2)
 
@@ -81,7 +81,7 @@ Description:
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
-La ecuación (3) muestra el Input Activity Ratio para PPGEO002, para todos los escenarios y asociado al fuel Geothermal Energy.
+The equation (3) shows the Input Activity Ratio for PPGEO002, for every scenario and associated to the fuel Geothermal Energy.
 
 InputActivityRatio=1   [PJ/PJ]   (3)
 
@@ -93,9 +93,9 @@ Description:
    
 OperationalLife[r,t]
 +++++++++
-La ecuación (4) muestra el Operational Life para PPGEO002, para todos los escenarios.
+The equation (4) shows the Operational Life for PPGEO002, for every scenario.
 
-OperationalLife=40 Años   (4)
+OperationalLife=40 Years   (4)
 
 Source:
    This is the source. 
@@ -105,7 +105,7 @@ Description:
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
-La ecuación (5) muestra el Output Activity Ratio para PPGEO002, para todos los escenarios y asociado al fuel Electricity Supply by Plants.
+The equation (5) shows the Output Activity Ratio for PPGEO002, for every scenario and associated to the fuel Electricity Supply by Plants.
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
@@ -117,7 +117,7 @@ Description:
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
-La figura 2 muestra el Total Annual Max Capacity para PPGEO002, para todos los escenarios.
+The figure 2 shows the Total Annual Max Capacity for PPGEO002, for every scenario.
 
 .. figure:: img/PPGEO002_TotalAnnualMaxCapacity.png
    :align:   center
@@ -133,7 +133,7 @@ Description:
    
 TotalAnnualMinCapacityInvestment[r,t,y]
 +++++++++
-La figura 3 muestra el Total Annual Min Capacity Investment para PPGEO002, para todos los escenarios.
+The figure 3 show the Total Annual Min Capacity Investment for PPGEO002, for every scenario.
 
 .. figure:: img/PPGEO002_TotalAnnualMinCapacityInvestment.png
    :align:   center
@@ -149,7 +149,7 @@ Description:
    
 VariableCost[r,t,m,y]
 +++++++++
-La ecuación (6) muestra el Variable Cost para PPGEO002, para todos los escenarios.
+The equation (6) shows the Variable Cost for PPGEO002, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (6)
 
