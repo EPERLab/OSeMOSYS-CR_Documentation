@@ -47,7 +47,7 @@ The figure 1 shows the Capacity Factor for PPHROR002, for every scenario and sea
    :align:   center
    :width:   700 px
    
-   *Figura 1) Capacity Factor for PPHROR002.*
+   *Figure 1) Capacity Factor for PPHROR002.*
 
 Source:
    This is the source. 
@@ -123,7 +123,7 @@ The figure 2 shows the Total Annual Max Capacity for PPHROR002, for every scenar
    :align:   center
    :width:   700 px
    
-   *Figura 2) Total Annual Max Capacity for PPHROR002.*
+   *Figure 2) Total Annual Max Capacity for PPHROR002.*
 
 Source:
    This is the source. 
@@ -139,7 +139,7 @@ The figure 3 shows the Total Annual Min Capacity Investment for PPHROR002, for e
    :align:   center
    :width:   700 px
    
-   *Figura 3) Total Annual Min Capacity Investment for PPHROR002.*
+   *Figure 3) Total Annual Min Capacity Investment for PPHROR002.*
 
 Source:
    This is the source. 
