@@ -14,23 +14,23 @@ Techs_Minivan
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
 +=================================================+=======+==============+==============+==============+==============+
-| DistanceDriven                                  |km/year| 25847        | 25847        | 25847        | 25847        |
+| DistanceDriven                                  |km/year| 14773        | 14773        | 14773        | 14773        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | InputActivityRatio[r,t,f,m,y] (Private          | %     | 1            | 1            | 1            | 1            |
 | Transport in Minivan)                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OperationalLife[r,t]                            | Years | 1            | 1            | 1            | 1            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| OutputActivityRatio[r,t,f,m,y] (Transport Demand| Gpkm/ | 8.43         | 8.43         | 8.43         | 8.43         |
+| OutputActivityRatio[r,t,f,m,y] (Transport Demand| Gpkm/ | 2.3          | 2.3          | 2.3          | 2.3          |
 | Passenger Private)                              | Gvkm  |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (BAU)             | Gvkm  | 0.4173       | 0.5212       | 0.6243       | 0.723        |
+| TotalAnnualMaxCapacity[r,t,y] (BAU)             | Gvkm  | 0.1607       | 0.6573       | 0.9718       | 1.1401       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   | Gvkm  | 0.4173       | 0.5302       | 0.8148       | 0.975        |
+| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   | Gvkm  | 0.1604       | 0.6379       | 0.6729       | 0.7246       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMinCapacityInvestment[r,t,y] (BAU)   | Gvkm  | 0.4165       | 0.5202       | 0.6231       | 0.7216       |
+| TotalAnnualMinCapacityInvestment[r,t,y] (BAU)   | Gvkm  | 0.1604       | 0.6559       | 0.9699       | 1.1378       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMinCapacityInvestment[r,t,y] (NDP and| Gvkm  | 0.4166       | 0.5291       | 0.8131       | 0.9735       |
+| TotalAnnualMinCapacityInvestment[r,t,y] (NDP and| Gvkm  | 0.1604       | 0.6363       | 0.9716       | 0.7232       |
 | OP15C)                                          |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
@@ -39,7 +39,7 @@ DistanceDriven
 +++++++++
 The equation (1) shows the Distance Driven for Techs_Minivan.
 
-DistanceDriven=25847 [km/year]   (1)
+DistanceDriven=14773 [km/year]   (1)
 
 Source:
    This is the source. 
@@ -75,7 +75,7 @@ OutputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (4) shows the Output Activity Ratio for Techs_Minivan, for every scenario and associated to the fuel Transport Demand Passenger Private.
 
-OutputActivityRatio=8.43 [Gpkm/Gvkm]   (4)
+OutputActivityRatio=2.3 [Gpkm/Gvkm]   (4)
 
 Source:
    This is the source. 
