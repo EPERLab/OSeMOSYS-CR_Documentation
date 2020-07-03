@@ -41,7 +41,7 @@ PPGEO002
 
 CapacityFactor[r,t,l,y]
 +++++++++
-La figura 1 muestra el Capacity Factor para PPGEO002, for every scenario and season.
+The figure 1 shows the Capacity Factor for PPGEO002, for every scenario and season.
 
 .. figure:: img/PPGEO002_CapacityFactor.png
    :align:   center
