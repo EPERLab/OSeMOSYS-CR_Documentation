@@ -86,7 +86,7 @@ OperationalLife[r,t]
 +++++++++
 The equation (5) shows the Operational Life for PPDSL002, for every scenario.
 
-OperationalLife=30 Años   (5)
+OperationalLife=30 Years   (5)
 
 Source:
    This is the source. 
