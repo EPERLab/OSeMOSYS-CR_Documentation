@@ -62,7 +62,7 @@ OperationalLife[r,t]
 +++++++++
 The equation (3) shows the Operational Life for PPBIO001, for every scenario.
 
-OperationalLife=25 Años   (3)
+OperationalLife=25 Years   (3)
 
 Source:
    This is the source. 
