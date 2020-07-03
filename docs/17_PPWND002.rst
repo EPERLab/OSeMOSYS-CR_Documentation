@@ -18,14 +18,14 @@ PPWND002
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | CapacityFactor[r,t,l,y] (Rain)                  |   %   | 0.572        | 0.572        | 0.572        | 0.572        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| CapitalCost[r,t,y]                              | %     | 2384.5       | 2153.5       | 2153.5       | 2153.5       |
+| CapitalCost[r,t,y]                              | M$/GW | 2384.5       | 2153.5       | 2153.5       | 2153.5       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | FixedCost[r,t,y]                                | M$/GW | 179.1        | 179.1        | 179.1        | 179.1        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | InputActivityRatio[r,t,f,m,y] (Eolic            | PJ/PJ | 1            | 1            | 1            | 1            |
 | energy)                                         |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| OperationalLife[r,t]                            |  Años | 20           | 20           | 20           | 20           |
+| OperationalLife[r,t]                            | Years | 20           | 20           | 20           | 20           |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
 | For Transmission)                               |       |              |              |              |              |
@@ -39,7 +39,7 @@ PPWND002
 
 CapacityFactor[r,t,l,y]
 +++++++++
-La ecuación (1) muestra el Capacity Factor para PPWND002, para todos los escenarios y temporadas.
+The equation (1) shows the Capacity Factor for PPWND002, for every scenario and season.
 
 CapacityFactor=0.572%   (1)
 
@@ -51,13 +51,13 @@ Description:
    
 CapitalCost[r,t,y]
 +++++++++
-La figura 1 muestra el Capital Cost para PPWND002, para todos los escenarios.
+The figure 1 shows the Capital Cost for PPWND002, for every scenario.
 
 .. figure:: img/PPWND002_CapitalCost.png
    :align:   center
    :width:   700 px
    
-   *Figura 1) Capital Cost de PPWND002.*
+   *Figure 1) Capital Cost for PPWND002.*
 
 Source:
    This is the source. 
@@ -67,7 +67,7 @@ Description:
 
 FixedCost[r,t,y]
 +++++++++
-La ecuación (2) muestra el Fixed Cost para PPWND002, para todos los escenarios.
+The equation (2) shows the Fixed Cost for PPWND002, for every scenario.
 
 FixedCost=179.1 [M$/GW]   (2)
 
@@ -79,7 +79,7 @@ Description:
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
-La ecuación (3) muestra el Input Activity Ratio para PPWND002, para todos los escenarios y asociado al fuel Eolic Energy.
+The equation (3) shows the Input Activity Ratio for PPWND002, for every scenario and associated to the fuel Eolic Energy.
 
 InputActivityRatio=1   [PJ/PJ]   (3)
 
@@ -91,9 +91,9 @@ Description:
    
 OperationalLife[r,t]
 +++++++++
-La ecuación (4) muestra el Operational Life para PPWND002, para todos los escenarios.
+The equation (4) shows the Operational Life for PPWND002, for every scenario.
 
-OperationalLife=20 Años   (4)
+OperationalLife=20 Years   (4)
 
 Source:
    This is the source. 
@@ -103,7 +103,7 @@ Description:
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
-La ecuación (5) muestra el Output Activity Ratio para PPWND002, para todos los escenarios y asociado al fuel Electricity for Transmission.
+The equation (5) shows the Output Activity Ratio for PPWND002, for every scenario and associated to the fuel Electricity for Transmission.
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
@@ -115,13 +115,13 @@ Description:
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
-La Figura 2 muestra el Total Annual Max Capacity para PPWND002, para todos los escenarios.
+The figure 2 shows the Total Annual Max Capacity for PPWND002, for every scenario.
 
 .. figure:: img/PPWND002_TotalAnnualMaxCapacity.png
    :align:   center
    :width:   700 px
    
-   *Figura 2) Total Annual Max Capacity de PPWND002.*
+   *Figure 2) Total Annual Max Capacity for PPWND002.*
 
 Source:
    This is the source. 
@@ -131,7 +131,7 @@ Description:
    
 VariableCost[r,t,m,y]
 +++++++++
-La ecuación (6) muestra el Variable Cost para PPWND002, para todos los escenarios.
+The equation (6) shows the Variable Cost for PPWND002, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (6)
 
