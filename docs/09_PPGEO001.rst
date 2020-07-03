@@ -45,7 +45,7 @@ The equation (1) shows the Capacity Factor for PPGEO001, for every scenario and 
    :align:   center
    :width:   700 px
    
-   *Figura 1) Capacity Factor de PPGEO001.*
+   *Figure 1) Capacity Factor for PPGEO001.*
 
 Source:
    This is the source. 
@@ -81,7 +81,7 @@ OperationalLife[r,t]
 +++++++++
 The equation (3) shows the Operational Life for PPGEO001, for every scenario.
 
-OperationalLife=40 Años   (3)
+OperationalLife=40 Years   (3)
 
 Source:
    This is the source. 
