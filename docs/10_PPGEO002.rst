@@ -47,7 +47,7 @@ The figure 1 shows the Capacity Factor for PPGEO002, for every scenario and seas
    :align:   center
    :width:   700 px
    
-   *Figura 1) Capacity Factor de PPGEO002.*
+   *Figure 1) Capacity Factor for PPGEO002.*
 
 Source:
    This is the source. 
@@ -123,7 +123,7 @@ The figure 2 shows the Total Annual Max Capacity for PPGEO002, for every scenari
    :align:   center
    :width:   700 px
    
-   *Figura 2) Total Annual Max Capacity de PPGEO002.*
+   *Figure 2) Total Annual Max Capacity for PPGEO002.*
 
 Source:
    This is the source. 
@@ -139,7 +139,7 @@ The figure 3 show the Total Annual Min Capacity Investment for PPGEO002, for eve
    :align:   center
    :width:   700 px
    
-   *Figura 3) Total Annual Min Capacity Investment de PPGEO002.*
+   *Figure 3) Total Annual Min Capacity Investment for PPGEO002.*
 
 Source:
    This is the source. 
