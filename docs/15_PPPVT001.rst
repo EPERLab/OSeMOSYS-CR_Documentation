@@ -23,7 +23,7 @@ PPPVT001
 | InputActivityRatio[r,t,f,m,y] (Solar            | PJ/PJ | 1            | 1            | 1            | 1            |
 | energy)                                         |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| OperationalLife[r,t]                            |  Años | 25           | 25           | 25           | 25           |
+| OperationalLife[r,t]                            | Years | 25           | 25           | 25           | 25           |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OutputActivityRatio[r,t,f,m,y] (Electricity     | PJ/PJ | 1            | 1            | 1            | 1            |
 | Supply by Plants)                               |       |              |              |              |              |
@@ -39,7 +39,7 @@ PPPVT001
 
 CapacityFactor[r,t,l,y]
 +++++++++
-La ecuación (1) muestra el Capacity Factor para PPPVT001, para todos los escenarios y temporadas.
+The equation (1) shows the Capacity Factor for PPPVT001, for every scenario and season.
 
 CapacityFactor=0.277%   (1)
 
@@ -51,7 +51,7 @@ Description:
 
 FixedCost[r,t,y]
 +++++++++
-La ecuación (2) muestra el Fixed Cost para PPPVT001, para todos los escenarios.
+The equation (2) shows the Fixed Cost for PPPVT001, for every scenario.
 
 FixedCost=31.3 [M$/GW]   (2)
 
@@ -63,7 +63,7 @@ Description:
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
-La ecuación (3) muestra el Input Activity Ratio para PPPVT001, para todos los escenarios y asociado al fuel Solar Energy. 
+The equation (3) shows the Input Activity Ratio for PPPVT001, for every scenario and associated to the fuel Solar Energy. 
 
 InputActivityRatio=1 [PJ/PJ]   (3)
 
@@ -75,9 +75,9 @@ Description:
    
 OperationalLife[r,t]
 +++++++++
-La ecuación (4) muestra el Operational Life para PPPVT001, para todos los escenarios.
+The equation (4) shows the Operational Life for PPPVT001, for every scenario.
 
-OperationalLife=25 Años   (4)
+OperationalLife=25 Years   (4)
 
 Source:
    This is the source. 
@@ -87,7 +87,7 @@ Description:
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
-La ecuación (5) muestra el Output Activity Ratio para PPPVT001, para todos los escenarios y asociado al fuel Electricity Supply by Plants.
+The equation (5) shows the Output Activity Ratio for PPPVT001, for every scenario and associated to the fuel Electricity Supply by Plants.
 
 OutputActivityRatio=1 [PJ/PJ]   (5)
 
@@ -99,7 +99,7 @@ Description:
    
 ResidualCapacity[r,t,y]
 +++++++++
-La ecuación (6) muestra el Residual Capacity para PPPVT001, para todos los escenarios.
+The equation (6) shows the Residual Capacity for PPPVT001, for every scenario.
 
 ResidualCapacity=0.0054 [GW]   (6)
 
@@ -111,7 +111,7 @@ Description:
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
-La ecuación (7) muestra el Total Annual Max Capacity para PPPVT001, para todos los escenarios. 
+The equation (7) shows the Total Annual Max Capacity for PPPVT001, for every scenario. 
 
 TotalAnnualMaxCapacity=0.0054 [GW]   (7)
 
@@ -123,7 +123,7 @@ Description:
    
 VariableCost[r,t,m,y]
 +++++++++
-La ecuación (8) muestra el Variable Cost para PPPVT001, para todos los escenarios.
+The equation (8) shows the Variable Cost for PPPVT001, for every scenario.
 
 VariableCost=0.001 [M$/PJ]   (8)
 
