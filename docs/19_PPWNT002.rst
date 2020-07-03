@@ -59,7 +59,7 @@ The figure 1 shows the Capital Cost for PPWNT002, for every scenario.
    :align:   center
    :width:   700 px
    
-   *Figura 1) Capital Cost de PPWNT002.*
+   *Figure 1) Capital Cost for PPWNT002.*
    
 Source:
    This is the source. 
@@ -123,7 +123,7 @@ The figure 2 shows the Total Annual Max Capacity for PPWNT002, for every scenari
    :align:   center
    :width:   700 px
    
-   *Figura 2) Total Annual Max Capacity de PPWNT002.*
+   *Figure 2) Total Annual Max Capacity for PPWNT002.*
 
 Source:
    This is the source. 
@@ -139,7 +139,7 @@ The figure 3 shows the Total Annual Min Capacity Investment for PPWNT002, for ev
    :align:   center
    :width:   700 px
    
-   *Figura 3) Total Annual Min Capacity Investment de PPWNT002.*
+   *Figure 3) Total Annual Min Capacity Investment for PPWNT002.*
 
 Source:
    This is the source. 
