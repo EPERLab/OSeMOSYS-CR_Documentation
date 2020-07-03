@@ -45,7 +45,7 @@ The figure 1 shows the Capacity Factor for PPHROR001, for every scenario and sea
    :align:   center
    :width:   700 px
    
-   *Figura 1) Capacity Factor de PPHROR001.*
+   *Figure 1) Capacity Factor for PPHROR001.*
 
 Source:
    This is the source. 
