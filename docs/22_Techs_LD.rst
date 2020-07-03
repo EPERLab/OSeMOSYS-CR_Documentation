@@ -87,7 +87,7 @@ TotalAnnualMaxCapacity[r,t,y]
 +++++++++
 The figure 1 shows the Total Annual Max Capacity for Techs_LD, for the BAU scenario.
 
-.. figure:: img/Techs_LD_TotalAnnualMaxCapacity_LD.png
+.. figure:: img/Techs_LD_TotalAnnualMaxCapacity_BAU.png
    :align:   center
    :width:   700 px
    
