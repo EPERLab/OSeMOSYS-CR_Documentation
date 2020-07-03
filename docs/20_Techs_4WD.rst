@@ -75,7 +75,7 @@ OutputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (4) shows the Output Activity Ratio for Techs_4WD, for every scenario and associated to the fuel Transport Demand Passenger Private.
 
-OutputActivityRatio=1 [Gpkm/Gvkm]   (4)
+OutputActivityRatio=1.6 [Gpkm/Gvkm]   (4)
 
 Source:
    This is the source. 
