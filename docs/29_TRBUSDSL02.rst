@@ -176,7 +176,7 @@ Description:
    
 UnitCapitalCost[r,t,y]
 +++++++++
-The equation (11) shows the Unit Fixed Cost for TRBUSDSL02, for every scenario.
+The equation (11) shows the Unit Capital Cost for TRBUSDSL02, for every scenario.
 
 UnitCapitalCost=222495.54 []   (11)
 
