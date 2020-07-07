@@ -1,4 +1,4 @@
-Techs_Microbuses
+Techs_Microbuses: Minbus (Grouping Technology)
 =====================================
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -16,8 +16,8 @@ Techs_Microbuses
 +=================================================+=======+==============+==============+==============+==============+
 | DistanceDriven                                  |km/year| 25847        | 25847        | 25847        | 25847        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| InputActivityRatio[r,t,f,m,y] (Public           | %     | 1            | 1            | 1            | 1            |
-| Transport in Microbuses)                        |       |              |              |              |              |
+| InputActivityRatio[r,t,f,m,y] (Public           | Gpkm/ | 1            | 1            | 1            | 1            |
+| Transport in Microbuses)                        | Gvkm  |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OperationalLife[r,t]                            | Years | 1            | 1            | 1            | 1            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -51,7 +51,7 @@ InputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (2) shows the Input Activity Ratio for Techs_Microbuses, for every scenario and associated to the fuel Public Transport in Minibus.
 
-InputActivityRatio=1%   (2)
+InputActivityRatio=1   [Gpkm/Gvkm]   (2)
 
 Source:
    This is the source. 
