@@ -36,7 +36,7 @@ Techs_Motos: Motorcycles (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-DistanceDriven
+DistanceDriven[r,t,y]
 +++++++++
 The equation (1) shows the Distance Driven for Techs_Motos, for every scenario.
 
