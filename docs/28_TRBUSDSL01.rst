@@ -51,7 +51,7 @@ TRBUSDSL01: Bus Diesel (existing)
 
 DistanceDriven[r,t,y]
 +++++++++
-The equation (1) shows the Distance Driven for TRBUSDSL01 for every scenario.
+The equation (1) shows the Distance Driven for TRBUSDSL01, for every scenario.
 
 DistanceDriven=65460 [km/year]   (1)
 
