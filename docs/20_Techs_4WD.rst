@@ -36,9 +36,9 @@ Techs_4WD: Four Wheel Drive (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-DistanceDriven
+DistanceDriven[r,t,y]
 +++++++++
-The equation (1) shows the Distance Driven for Techs_4WD.
+The equation (1) shows the Distance Driven for Techs_4WD, for every scenario.
 
 DistanceDriven=14773 [km/year]   (1)
 
