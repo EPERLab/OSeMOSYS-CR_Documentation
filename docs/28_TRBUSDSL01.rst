@@ -2,7 +2,7 @@ TRBUSDSL01: Bus Diesel (existing)
 =====================================
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| .. figure:: img/BusDiesel01.jpg                                                                                     |
+| .. figure:: img/TRBUSDSL01.jpg                                                                                     |
 |    :align:   center                                                                                                 |
 |    :width:   500 px                                                                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -177,7 +177,7 @@ Source:
 Description: 
    This is the description.
    
-   TotalTechnologyAnnualActivityLowerLimit[r,t,y]
+TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++
 The figure 5 shows the Total Technology Annual Activity Lower Limit for TRBUSDSL01, for the BAU scenario.
 
