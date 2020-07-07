@@ -14,24 +14,24 @@ TRBUSDSL02: Bus Diesel (new)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
 +=================================================+=======+==============+==============+==============+==============+
-| CapitalCost[r,t,y]                              | M$/GW | 3399         | 3399         | 3399         | 3399         |
+| CapitalCost[r,t,y]                              |M$/Gvkm| 3399         | 3399         | 3399         | 3399         |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | DistanceDriven[r,t,y]                           |km/year| 65460        | 65460        | 65460        | 65460        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| EmissionActivityRatio[r,t,e,m,y] (Accidents)    |       | 0.1          | 0.1          | 0.1          | 0.1          |
+| EmissionActivityRatio[r,t,e,m,y] (Accidents)    |   -   | 0.1          | 0.1          | 0.1          | 0.1          |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| EmissionActivityRatio[r,t,e,m,y] (Congestion)   |       | 0.16         | 0.16         | 0.16         | 0.16         |
+| EmissionActivityRatio[r,t,e,m,y] (Congestion)   |  -    | 0.16         | 0.16         | 0.16         | 0.16         |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| EmissionActivityRatio[r,t,e,m,y] (Health)       |       | 0.06         | 0.06         | 0.06         | 0.06         |
+| EmissionActivityRatio[r,t,e,m,y] (Health)       |   -   | 0.06         | 0.06         | 0.06         | 0.06         |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| FixedCost[r,t,y]                                | M$/GW | 171.78       | 171.78       | 171.78       | 171.78       |
+| FixedCost[r,t,y]                                |M$/Gvkm| 171.78       | 171.78       | 171.78       | 171.78       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| InputActivityRatio[r,t,f,m,y] (Diesel for       | Gpkm/ | 7.61         | 7.61         | 7.61         | 7.61         |
+| InputActivityRatio[r,t,f,m,y] (Diesel for       | PJ/   | 7.61         | 7.61         | 7.61         | 7.61         |
 | public transport)                               | Gvkm  |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OperationalLife[r,t]                            | Years | 15           | 15           | 15           | 15           |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| OutputActivityRatio[r,t,f,m,y] (Public Transport| Gpkm/ | 1            | 1            | 1            | 1            |
+| OutputActivityRatio[r,t,f,m,y] (Public Transport| PJ/   | 1            | 1            | 1            | 1            |
 | in Buses)                                       | Gvkm  |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.1358       | 0.5024       | 0.7978       | 0.9279       |
@@ -40,9 +40,9 @@ TRBUSDSL02: Bus Diesel (new)
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.1358       | 0            | 0            | 0            |
 | (NDP and OP15C)                                 |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| UnitFixedCost[r,t,y]                            |       | 11244.7188   | 11244.7188   | 11244.7188   | 11244.7188   |
-+-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | UnitCapitalCost[r,t,y]                          |       | 222498.54    | 222498.54    | 222498.54    | 222498.54    |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| UnitFixedCost[r,t,y]                            |       | 11244.7188   | 11244.7188   | 11244.7188   | 11244.7188   |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
@@ -162,26 +162,28 @@ Source:
 Description: 
    This is the description.
    
-UnitFixedCost[r,t,y]
-+++++++++
-The equation (10) shows the Unit Fixed Cost for TRBUSDSL02, for every scenario.
-
-UnitFixedCost=11244.7188 []   (10)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-   
 UnitCapitalCost[r,t,y]
 +++++++++
-The equation (11) shows the Unit Capital Cost for TRBUSDSL02, for every scenario.
+The equation (10) shows the Unit Capital Cost for TRBUSDSL02, for every scenario.
 
-UnitCapitalCost=222495.54 []   (11)
+UnitCapitalCost=222495.54 []   (10)
 
 Source:
    This is the source. 
    
 Description: 
    This is the description.
+   
+   
+UnitFixedCost[r,t,y]
++++++++++
+The equation (11) shows the Unit Fixed Cost for TRBUSDSL02, for every scenario.
+
+UnitFixedCost=11244.7188 []   (11)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
