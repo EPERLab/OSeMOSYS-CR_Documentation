@@ -14,27 +14,27 @@ TRBUSELC02: Bus Electric (new)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Parameter                                       | Unit  | 2020         | 2030         | 2040         |  2050        |
 +=================================================+=======+==============+==============+==============+==============+
-| CapitalCost[r,t,y]                              | M$/GW | 5936         | 4517         | 4408         | 4300         |
+| CapitalCost[r,t,y]                              |M$/Gvkm| 5936         | 4517         | 4408         | 4300         |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | DistanceDriven[r,t,y]                           |km/year| 65460        | 65460        | 65460        | 65460        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| EmissionActivityRatio[r,t,e,m,y] (Accidents)    |       | 0.1          | 0.1          | 0.1          | 0.1          |
+| EmissionActivityRatio[r,t,e,m,y] (Accidents)    |  -    | 0.1          | 0.1          | 0.1          | 0.1          |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| EmissionActivityRatio[r,t,e,m,y] (Congestion)   |       | 0.16         | 0.16         | 0.16         | 0.16         |
+| EmissionActivityRatio[r,t,e,m,y] (Congestion)   | -     | 0.16         | 0.16         | 0.16         | 0.16         |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| FixedCost[r,t,y]                                | M$/GW | 56.6874      | 56.6874      | 56.6874      | 56.6874      |
+| FixedCost[r,t,y]                                |M$/Gvkm| 56.6874      | 56.6874      | 56.6874      | 56.6874      |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| InputActivityRatio[r,t,f,m,y] (Electricity for  | Gpkm/ | 4.79         | 4.79         | 4.79         | 4.79         |
+| InputActivityRatio[r,t,f,m,y] (Electricity for  | PJ/   | 4.79         | 4.79         | 4.79         | 4.79         |
 | public transport)                               | Gvkm  |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OperationalLife[r,t]                            | Years | 12           | 12           | 12           | 12           |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| OutputActivityRatio[r,t,f,m,y] (Public Transport| Gpkm/ | 1            | 1            | 1            | 1            |
+| OutputActivityRatio[r,t,f,m,y] (Public Transport| PJ/   | 1            | 1            | 1            | 1            |
 | in Buses)                                       | Gvkm  |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (BAU)             |  GW   | 0            | 99999        | 99999        | 99999        |
+| TotalAnnualMaxCapacity[r,t,y] (BAU)             |  Gvkm | 0            | 99999        | 99999        | 99999        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   |  GW   | 0            | 0.051        | 0.6698       | 1.0554       |
+| TotalAnnualMaxCapacity[r,t,y] (NDP and OP15C)   |  Gvkm | 0            | 0.051        | 0.6698       | 1.0554       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0            | 0.0509       | 0.6684       | 1.0533       |
 | (NDP and OP15C)                                 |       |              |              |              |              |
@@ -178,18 +178,6 @@ Source:
 Description: 
    This is the description.
    
-UnitFixedCost[r,t,y]
-+++++++++
-The equation (8) shows the Unit Fixed Cost for TRBUSELC02, for every scenario.
-
-UnitFixedCost=3710.7572 []   (8)
-
-Source:
-   This is the source. 
-   
-Description: 
-   This is the description.
-   
 UnitCapitalCost[r,t,y]
 +++++++++
 The figure 5 shows the Unit Capital Cost for TRBUSELC02, for every scenario.
@@ -204,3 +192,17 @@ Source:
    
 Description: 
    This is the description.
+   
+   
+UnitFixedCost[r,t,y]
++++++++++
+The equation (8) shows the Unit Fixed Cost for TRBUSELC02, for every scenario.
+
+UnitFixedCost=3710.7572 []   (8)
+
+Source:
+   This is the source. 
+   
+Description: 
+   This is the description.
+   
