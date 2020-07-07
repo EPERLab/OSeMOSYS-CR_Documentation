@@ -36,9 +36,9 @@ Techs_Minivan: Minivan (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-DistanceDriven
+DistanceDriven[r,t,y]
 +++++++++
-The equation (1) shows the Distance Driven for Techs_Minivan.
+The equation (1) shows the Distance Driven for Techs_Minivan, for every scenario.
 
 DistanceDriven=14773 [km/year]   (1)
 
