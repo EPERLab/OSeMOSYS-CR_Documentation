@@ -36,9 +36,9 @@ Techs_Taxis: Taxis (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-DistanceDriven
+DistanceDriven[r,t,y]
 +++++++++
-The equation (1) shows the Distance Driven for Techs_Taxis.
+The equation (1) shows the Distance Driven for Techs_Taxis, for every scenario.
 
 DistanceDriven=48704 [km/year]   (1)
 
