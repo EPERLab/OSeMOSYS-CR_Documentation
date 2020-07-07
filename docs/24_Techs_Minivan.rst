@@ -1,4 +1,4 @@
-Techs_Minivan
+Techs_Minivan: Minivan (Grouping Technology)
 =====================================
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -16,8 +16,8 @@ Techs_Minivan
 +=================================================+=======+==============+==============+==============+==============+
 | DistanceDriven                                  |km/year| 14773        | 14773        | 14773        | 14773        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| InputActivityRatio[r,t,f,m,y] (Private          | %     | 1            | 1            | 1            | 1            |
-| Transport in Minivan)                           |       |              |              |              |              |
+| InputActivityRatio[r,t,f,m,y] (Private          | Gpkm/ | 1            | 1            | 1            | 1            |
+| Transport in Minivan)                           | Gvkm  |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OperationalLife[r,t]                            | Years | 1            | 1            | 1            | 1            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -51,7 +51,7 @@ InputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (2) shows the Input Activity Ratio for Techs_Minivan, for every scenario and associated to the fuel Private Transport in Minivan.
 
-InputActivityRatio=1%   (2)
+InputActivityRatio=1 [Gpkm/Gvkm]   (2)
 
 Source:
    This is the source. 
