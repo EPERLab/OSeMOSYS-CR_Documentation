@@ -38,7 +38,7 @@ Techs_Motos: Motorcycles (Grouping Technology)
 
 DistanceDriven
 +++++++++
-The equation (1) shows the Distance Driven for Techs_Motos.
+The equation (1) shows the Distance Driven for Techs_Motos, for every scenario.
 
 DistanceDriven=7327 [km/year]   (1)
 
