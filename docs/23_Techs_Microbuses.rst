@@ -36,9 +36,9 @@ Techs_Microbuses: Minbus (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-DistanceDriven
+DistanceDriven[r,t,y]
 +++++++++
-The equation (1) shows the Distance Driven for Techs_Microbuses.
+The equation (1) shows the Distance Driven for Techs_Microbuses, for every scenario.
 
 DistanceDriven=25847 [km/year]   (1)
 
