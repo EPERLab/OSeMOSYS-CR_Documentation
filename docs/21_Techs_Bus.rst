@@ -1,4 +1,4 @@
-Techs_Bus
+Techs_Bus: Bus (Grouping Technology)
 =====================================
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -16,8 +16,8 @@ Techs_Bus
 +=================================================+=======+==============+==============+==============+==============+
 | DistanceDriven                                  |km/year| 65460        | 65460        | 65460        | 65460        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| InputActivityRatio[r,t,f,m,y] (Public           | %     | 1            | 1            | 1            | 1            |
-| Transport in Bus)                               |       |              |              |              |              |
+| InputActivityRatio[r,t,f,m,y] (Public           | Gpkm/ | 1            | 1            | 1            | 1            |
+| Transport in Bus)                               | Gvkm  |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OperationalLife[r,t]                            | Years | 1            | 1            | 1            | 1            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -51,7 +51,7 @@ InputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (2) shows the Input Activity Ratio for Techs_Bus, for every scenario and associated to the fuel Public Transport in Bus.
 
-InputActivityRatio=1%   (2)
+InputActivityRatio=1 [Gpkm/Gvkm]   (2)
 
 Source:
    This is the source. 
