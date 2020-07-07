@@ -205,7 +205,7 @@ UnitFixedCost[r,t,y]
 +++++++++
 The equation (9) shows the Unit Fixed Cost for TRBUSDSL01, for every scenario.
 
-FixedCost=11244.7188 []   (9)
+UnitFixedCost=11244.7188 []   (9)
 
 Source:
    This is the source. 
