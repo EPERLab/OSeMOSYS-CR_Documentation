@@ -1,4 +1,4 @@
-Techs_LD
+Techs_LD: Light Duty (Grouping Technology)
 =====================================
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -16,8 +16,8 @@ Techs_LD
 +=================================================+=======+==============+==============+==============+==============+
 | DistanceDriven                                  |km/year| 14773        | 14773        | 14773        | 14773        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| InputActivityRatio[r,t,f,m,y] (Public           | %     | 1            | 1            | 1            | 1            |
-| Transport in Bus)                               |       |              |              |              |              |
+| InputActivityRatio[r,t,f,m,y] (Public           | Gpkm/ | 1            | 1            | 1            | 1            |
+| Transport in Bus)                               | Gvkm  |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | OperationalLife[r,t]                            | Years | 1            | 1            | 1            | 1            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -51,7 +51,7 @@ InputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (2) shows the Input Activity Ratio for Techs_LD, for every scenario and associated to the fuel Private Transport in Light Duty.
 
-InputActivityRatio=1%   (2)
+InputActivityRatio=1  [Gpkm/Gvkm]   (2)
 
 Source:
    This is the source. 
