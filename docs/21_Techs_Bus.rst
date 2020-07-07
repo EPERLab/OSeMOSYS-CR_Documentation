@@ -36,9 +36,9 @@ Techs_Bus: Bus (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-DistanceDriven
+DistanceDriven[r,t,y]
 +++++++++
-The equation (1) shows the Distance Driven for Techs_Bus.
+The equation (1) shows the Distance Driven for Techs_Bus, for every scenario.
 
 DistanceDriven=65460 [km/year]   (1)
 
