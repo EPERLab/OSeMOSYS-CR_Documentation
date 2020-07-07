@@ -36,9 +36,9 @@ Techs_LD: Light Duty (Grouping Technology)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-DistanceDriven
+DistanceDriven[r,t,y]
 +++++++++
-The equation (1) shows the Distance Driven for Techs_LD.
+The equation (1) shows the Distance Driven for Techs_LD, for every scenario.
 
 DistanceDriven=14773 [km/year]   (1)
 
