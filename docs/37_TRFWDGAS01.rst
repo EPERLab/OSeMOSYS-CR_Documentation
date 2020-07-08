@@ -200,9 +200,9 @@ Description:
    
 UnitFixedCost[r,t,y]
 +++++++++
-The equation (8) shows the Unit Fixed Cost for TRFWDGAS01, for every scenario.
+The equation (7) shows the Unit Fixed Cost for TRFWDGAS01, for every scenario.
 
-UnitFixedCost=910.7554 []   (8)
+UnitFixedCost=910.7554 []   (7)
 
 Source:
    This is the source. 
