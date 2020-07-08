@@ -135,13 +135,13 @@ Description:
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
-The figure 2 shows the Total Annual Max Capacity for TRFWDHYBD02, for every scenario.
+The figure 1 shows the Total Annual Max Capacity for TRFWDHYBD02, for every scenario.
 
 .. figure:: img/TRFWDHYBD02_TotalAnnualMaxCapacity.png
    :align:   center
    :width:   700 px
    
-   *Figure 2) Total Annual Max Capacity for TRFWDHYBD02 for every scenario.*
+   *Figure 1) Total Annual Max Capacity for TRFWDHYBD02 for every scenario.*
 
 Source:
    This is the source. 
