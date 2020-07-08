@@ -103,7 +103,7 @@ Description:
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
-The equation (5) shows the Input Activity Ratio for TRBUSHYD02, for every scenario and associated to the fuel Electricity for public transport. 
+The equation (5) shows the Input Activity Ratio for TRBUSHYD02, for every scenario and associated to the fuel Hydrogen for public transport. 
 
 InputActivityRatio=5.45 [PJ/Gvkm]   (5)
 
