@@ -50,7 +50,7 @@ CapitalCost[r,t,y]
 +++++++++
 The equation (1) shows the Capital Cost for TRBUSDSL02, for every scenario.
 
-CapitalCost=3399 [M$/GW]   (1)
+CapitalCost=3399 [M$/Gvkm]   (1)
 
 Source:
    This is the source. 
@@ -74,15 +74,15 @@ EmissionActivityRatio[r,t,e,m,y]
 +++++++++
 The equation (3) shows the Emission Activity Ratio for TRBUSDSL02, for every scenario and associated to the emission Accidents.
 
-EmissionActivityRatio=0.1 []   (3)
+EmissionActivityRatio=0.1    (3)
 
 The equation (4) shows the Emission Activity Ratio for TRBUSDSL02, for every scenario and associated to the emission Congestion.
 
-EmissionActivityRatio=0.16 []   (4)
+EmissionActivityRatio=0.16    (4)
 
 The equation (5) shows the Emission Activity Ratio for TRBUSDSL02, for every scenario and associated to the emission Health.
 
-EmissionActivityRatio=0.06 []   (5)
+EmissionActivityRatio=0.06    (5)
 
 Source:
    This is the source. 
@@ -94,7 +94,7 @@ FixedCost[r,t,y]
 +++++++++
 The equation (6) shows the Fixed Cost for TRBUSDSL02, for every scenario.
 
-FixedCost=171.78 [M$/GW]   (6)
+FixedCost=171.78 [M$/Gvkm]   (6)
 
 Source:
    This is the source. 
@@ -106,7 +106,7 @@ InputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (7) shows the Input Activity Ratio for TRBUSDSL02, for every scenario and associated to the fuel Diesel for public transport. 
 
-InputActivityRatio=7.61 [Gpkm/Gvkm]   (7)
+InputActivityRatio=7.61 [PJ/Gvkm]   (7)
 
 Source:
    This is the source. 
@@ -130,7 +130,7 @@ OutputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (9) shows the Output Activity Ratio for TRBUSDSL02, for every scenario and associated to the fuel Public Transport in Buses.
 
-OutputActivityRatio=1 [Gpkm/Gvkm]   (9)
+OutputActivityRatio=1 [PJ/Gvkm]   (9)
 
 Source:
    This is the source. 
