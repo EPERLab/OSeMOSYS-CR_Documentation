@@ -97,13 +97,11 @@ Description:
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
-The figure 1 shows the Input Activity Ratio for TRFWDHYBD02, for every scenario and associated to the fuel Diesel for private transport and Electricity for private transport.
+InputActivityRatio[r,t,f,m,y]
++++++++++
+The equation (6) shows the Input Activity Ratio for TRFWDHYBD02, for every scenario and associated to the fuel Electricity for public transport and Diesel for public transport. 
 
-.. figure:: img/TRFWDHYBD02_InputActivityRatio.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 1) Input Activity Ratio for TRFWDHYBD02 for every scenario.*
+InputActivityRatio=0.55 [PJ/Gvkm]   (6)
 
 Source:
    This is the source. 
@@ -113,9 +111,9 @@ Description:
    
 OperationalLife[r,t]
 +++++++++
-The equation (6) shows the Operational Life for TRFWDHYBD02, for every scenario.
+The equation (7) shows the Operational Life for TRFWDHYBD02, for every scenario.
 
-OperationalLife=12 Years   (6)
+OperationalLife=12 Years   (7)
 
 Source:
    This is the source. 
@@ -125,9 +123,9 @@ Description:
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
-The equation (7) shows the Output Activity Ratio for TRFWDHYBD02, for every scenario and associated to the fuel Private Transport in Four Wheel Drive.
+The equation (8) shows the Output Activity Ratio for TRFWDHYBD02, for every scenario and associated to the fuel Private Transport in Four Wheel Drive.
 
-OutputActivityRatio=1 [PJ/Gvkm]   (7)
+OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
 Source:
    This is the source. 
@@ -153,9 +151,9 @@ Description:
    
 UnitCapitalCost[r,t,y]
 +++++++++
-The equation (8) shows the Unit Capital Cost for TRFWDHYBD02, for every scenario.
+The equation (9) shows the Unit Capital Cost for TRFWDHYBD02, for every scenario.
 
-UnitCapitalCost=51099.807 []   (8)
+UnitCapitalCost=51099.807 []   (9)
 
 Source:
    This is the source. 
@@ -166,9 +164,9 @@ Description:
    
 UnitFixedCost[r,t,y]
 +++++++++
-The equation (9) shows the Unit Fixed Cost for TRFWDHYBD02, for every scenario.
+The equation (10) shows the Unit Fixed Cost for TRFWDHYBD02, for every scenario.
 
-UnitFixedCost=455.3777 []   (9)
+UnitFixedCost=455.3777 []   (10)
 
 Source:
    This is the source. 
