@@ -78,11 +78,11 @@ EmissionActivityRatio[r,t,e,m,y]
 +++++++++
 The equation (2) shows the Emission Activity Ratio for TRBUSELC02, for every scenario and associated to the emission Accidents.
 
-EmissionActivityRatio=0.1 []   (2)
+EmissionActivityRatio=0.1    (2)
 
 The equation (3) shows the Emission Activity Ratio for TRBUSELC02, for every scenario and associated to the emission Congestion.
 
-EmissionActivityRatio=0.16 []   (3)
+EmissionActivityRatio=0.16    (3)
 
 Source:
    This is the source. 
@@ -94,7 +94,7 @@ FixedCost[r,t,y]
 +++++++++
 The equation (4) shows the Fixed Cost for TRBUSELC02, for every scenario.
 
-FixedCost=56.6874 [M$/GW]   (4)
+FixedCost=56.6874 [M$/Gvkm]   (4)
 
 Source:
    This is the source. 
@@ -106,7 +106,7 @@ InputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (5) shows the Input Activity Ratio for TRBUSELC02, for every scenario and associated to the fuel Electricity for public transport. 
 
-InputActivityRatio=4.79 [Gpkm/Gvkm]   (5)
+InputActivityRatio=4.79 [PJ/Gvkm]   (5)
 
 Source:
    This is the source. 
@@ -130,7 +130,7 @@ OutputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (7) shows the Output Activity Ratio for TRBUSELC02, for every scenario and associated to the fuel Public Transport in Buses.
 
-OutputActivityRatio=1 [Gpkm/Gvkm]   (7)
+OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
 Source:
    This is the source. 
