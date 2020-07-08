@@ -100,7 +100,7 @@ Description:
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
-The equation (7) shows the Input Activity Ratio for TRBUSLPG02, for every scenario and associated to the fuel Diesel for public transport. 
+The equation (7) shows the Input Activity Ratio for TRBUSLPG02, for every scenario and associated to the fuel LPG for public transport. 
 
 InputActivityRatio=9.92 [PJ/Gvkm]   (7)
 
