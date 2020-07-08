@@ -136,9 +136,13 @@ Description:
    
 TotalAnnualMaxCapacity[r,t,y]
 +++++++++
-The equation (10) shows the Total Annual Max Capacity for TRBUSLPG02, for every scenario.
+The figure 1 shows the Total Annual Max Capacity for TRBUSLPG02, for every scenario.
 
-TotalAnnualMaxCapacity=1 [Gvkm]   (10)
+.. figure:: img/TRBUSLPG02_TotalAnnualMaxCapacity.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure 1) Total Annual Max Capacity for TRBUSLPG02 for every scenario.*
 
 Source:
    This is the source. 
