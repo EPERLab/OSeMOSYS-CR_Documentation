@@ -37,9 +37,9 @@ TRFWDHYBD02: Four-Wheel-Drive Hybrid Electric-Diesel (new)
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | TotalAnnualMaxCapacity[r,t,y]                   | Gvkm  | 0            | 99999        | 99999        | 99999        |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| UnitCapitalCost[r,t,y]                          |       | 51099.807    | 51099.807    | 51099.807    | 51099.807    |
+| UnitCapitalCost[r,t,y]                          |  $    | 51099.807    | 51099.807    | 51099.807    | 51099.807    |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| UnitFixedCost[r,t,y]                            |       | 455.3777     | 455.3777     | 455.3777     | 455.3777     |
+| UnitFixedCost[r,t,y]                            |  $    | 455.3777     | 455.3777     | 455.3777     | 455.3777     |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
@@ -153,7 +153,7 @@ UnitCapitalCost[r,t,y]
 +++++++++
 The equation (9) shows the Unit Capital Cost for TRFWDHYBD02, for every scenario.
 
-UnitCapitalCost=51099.807 []   (9)
+UnitCapitalCost=51099.807 [$]   (9)
 
 Source:
    This is the source. 
@@ -166,7 +166,7 @@ UnitFixedCost[r,t,y]
 +++++++++
 The equation (10) shows the Unit Fixed Cost for TRFWDHYBD02, for every scenario.
 
-UnitFixedCost=455.3777 []   (10)
+UnitFixedCost=455.3777 [$]   (10)
 
 Source:
    This is the source. 
