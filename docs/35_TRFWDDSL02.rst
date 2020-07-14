@@ -40,9 +40,9 @@ TRFWDDSL02: Four-Wheel-Drive Diesel (new)
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.4215       | 0            | 0            | 0            |
 | (NDP and OP15C)                                 |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| UnitCapitalCost[r,t,y]                          |       | 36353.6939   | 36353.6939   | 36353.6939   | 36353.6939   |
+| UnitCapitalCost[r,t,y]                          |   $   | 36353.6939   | 36353.6939   | 36353.6939   | 36353.6939   |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| UnitFixedCost[r,t,y]                            |       | 910.7554     | 910.7554     | 910.7554     | 910.7554     |
+| UnitFixedCost[r,t,y]                            |   $   | 910.7554     | 910.7554     | 910.7554     | 910.7554     |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
@@ -170,7 +170,7 @@ UnitCapitalCost[r,t,y]
 +++++++++
 The equation (9) shows the Unit Capital Cost for TRFWDDSL02, for every scenario.
 
-UnitCapitalCost=36353.6939 []   (9)
+UnitCapitalCost=36353.6939 [$]   (9)
 
 Source:
    This is the source. 
@@ -183,7 +183,7 @@ UnitFixedCost[r,t,y]
 +++++++++
 The equation (10) shows the Unit Fixed Cost for TRFWDDSL02, for every scenario.
 
-UnitFixedCost=910.7554 []   (10)
+UnitFixedCost=910.7554 [$]   (10)
 
 Source:
    This is the source. 
