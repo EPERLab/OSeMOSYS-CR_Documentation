@@ -46,7 +46,7 @@ TRBUSDSL01: Bus Diesel (existing)
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.4074       | 0.204        | 0            | 0            |
 | (NDP and OP15C)                                 |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| UnitFixedCost[r,t,y]                            |       | 11244.7188   | 11244.7188   | 11244.7188   | 11244.7188   |
+| UnitFixedCost[r,t,y]                            |   $   | 11244.7188   | 11244.7188   | 11244.7188   | 11244.7188   |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 DistanceDriven[r,t,y]
@@ -205,7 +205,7 @@ UnitFixedCost[r,t,y]
 +++++++++
 The equation (9) shows the Unit Fixed Cost for TRBUSDSL01, for every scenario.
 
-UnitFixedCost=11244.7188 []   (9)
+UnitFixedCost=11244.7188 [$]   (9)
 
 Source:
    This is the source. 
