@@ -44,7 +44,7 @@ TRFWDGAS01: Four-Wheel-Drive Gasoline (existing)
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 2.5544       | 0.9007       | 0            | 0            |
 | (NDP and OP15C)                                 |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| UnitFixedCost[r,t,y]                            |       | 910.7554     | 910.7554     | 910.7554     | 910.7554     |
+| UnitFixedCost[r,t,y]                            |  $    | 910.7554     | 910.7554     | 910.7554     | 910.7554     |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 DistanceDriven[r,t,y]
@@ -202,7 +202,7 @@ UnitFixedCost[r,t,y]
 +++++++++
 The equation (7) shows the Unit Fixed Cost for TRFWDGAS01, for every scenario.
 
-UnitFixedCost=910.7554 []   (7)
+UnitFixedCost=910.7554 [$]   (7)
 
 Source:
    This is the source. 
