@@ -38,9 +38,9 @@ TRFWDGAS02: Four-Wheel-Drive Gasoline (new)
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.8514       | 0            | 0            | 0            |
 | (NDP and OP15C)                                 |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| UnitCapitalCost[r,t,y]                          |       | 34721.4251   | 34721.4251   | 34721.4251   | 34721.4251   |
+| UnitCapitalCost[r,t,y]                          |   $   | 34721.4251   | 34721.4251   | 34721.4251   | 34721.4251   |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| UnitFixedCost[r,t,y]                            |       | 910.7554     | 910.7554     | 910.7554     | 910.7554     |
+| UnitFixedCost[r,t,y]                            |   $   | 910.7554     | 910.7554     | 910.7554     | 910.7554     |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
@@ -164,7 +164,7 @@ UnitCapitalCost[r,t,y]
 +++++++++
 The equation (8) shows the Unit Capital Cost for TRFWDGAS02, for every scenario.
 
-UnitCapitalCost=34721.4251 []   (8)
+UnitCapitalCost=34721.4251 [$]   (8)
 
 Source:
    This is the source. 
@@ -177,7 +177,7 @@ UnitFixedCost[r,t,y]
 +++++++++
 The equation (9) shows the Unit Fixed Cost for TRFWDGAS02, for every scenario.
 
-UnitFixedCost=910.7554 []   (9)
+UnitFixedCost=910.7554 [$]   (9)
 
 Source:
    This is the source. 
