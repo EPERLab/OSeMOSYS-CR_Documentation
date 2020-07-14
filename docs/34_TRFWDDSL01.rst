@@ -46,7 +46,7 @@ TRFWDDSL01: Four-Wheel-Drive (existing)
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 1.2645       | 0.4459       | 0            | 0            |
 | (NDP and OP15C)                                 |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| UnitFixedCost[r,t,y]                            |       | 910.7554     | 910.7554     | 910.7554     | 910.7554     |
+| UnitFixedCost[r,t,y]                            |   $   | 910.7554     | 910.7554     | 910.7554     | 910.7554     |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 DistanceDriven[r,t,y]
@@ -208,7 +208,7 @@ UnitFixedCost[r,t,y]
 +++++++++
 The equation (8) shows the Unit Fixed Cost for TRFWDDSL01, for every scenario.
 
-UnitFixedCost=11244.7188 []   (8)
+UnitFixedCost=11244.7188 [$]   (8)
 
 Source:
    This is the source. 
