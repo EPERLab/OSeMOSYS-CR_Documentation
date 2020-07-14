@@ -40,9 +40,9 @@ TRBUSDSL02: Bus Diesel (new)
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.1358       | 0            | 0            | 0            |
 | (NDP and OP15C)                                 |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| UnitCapitalCost[r,t,y]                          |       | 222498.54    | 222498.54    | 222498.54    | 222498.54    |
+| UnitCapitalCost[r,t,y]                          |   $   | 222498.54    | 222498.54    | 222498.54    | 222498.54    |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| UnitFixedCost[r,t,y]                            |       | 11244.7188   | 11244.7188   | 11244.7188   | 11244.7188   |
+| UnitFixedCost[r,t,y]                            |   $   | 11244.7188   | 11244.7188   | 11244.7188   | 11244.7188   |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
@@ -166,7 +166,7 @@ UnitCapitalCost[r,t,y]
 +++++++++
 The equation (10) shows the Unit Capital Cost for TRBUSDSL02, for every scenario.
 
-UnitCapitalCost=222495.54 []   (10)
+UnitCapitalCost=222495.54 [$]   (10)
 
 Source:
    This is the source. 
@@ -179,7 +179,7 @@ UnitFixedCost[r,t,y]
 +++++++++
 The equation (11) shows the Unit Fixed Cost for TRBUSDSL02, for every scenario.
 
-UnitFixedCost=11244.7188 []   (11)
+UnitFixedCost=11244.7188 [$]   (11)
 
 Source:
    This is the source. 
