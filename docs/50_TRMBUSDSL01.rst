@@ -95,13 +95,10 @@ Description:
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
-The figure 1 shows the Input Activity Ratio for TRMBUSDSL01, for every scenario and associated to the fuel Diesel for public transport.
+The equation (6) shows the Input Activity Ratio for TRMBUSDSL01, for every scenario and associated to the fuel Diesel for public transport. 
 
-.. figure:: img/TRMBUSDSL01_InputActivityRatio.png
-   :align:   center
-   :width:   700 px
-   
-   *Figure 1) Input Activity Ratio for TRMBUSDSL01 for every scenario.*
+InputActivityRatio=6.37 [PJ/Gvkm]   (6)
+
 Source:
    This is the source. 
    
