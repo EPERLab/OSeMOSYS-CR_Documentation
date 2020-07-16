@@ -101,8 +101,6 @@ Description:
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
-InputActivityRatio[r,t,f,m,y]
-+++++++++
 The equation (5) shows the Input Activity Ratio for TRFWDPHYBD02, for every scenario and associated to the fuel Electricity for public transport and Diesel for public transport. 
 
 InputActivityRatio=0.48 [PJ/Gvkm]   (5)
