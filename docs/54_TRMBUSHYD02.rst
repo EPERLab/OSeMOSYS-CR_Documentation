@@ -127,7 +127,7 @@ Description:
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
-The equation (7) shows the Output Activity Ratio for TRMBUSHYD02, for every scenario and associated to the fuel Public Transport in Microbus.
+The equation (7) shows the Output Activity Ratio for TRMBUSHYD02, for every scenario and associated to the fuel Public Transport in Minibus.
 
 OutputActivityRatio=1 [PJ/Gvkm]   (7)
 
