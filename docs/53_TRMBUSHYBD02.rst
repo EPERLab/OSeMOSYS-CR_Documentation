@@ -67,7 +67,7 @@ DistanceDriven[r,t,y]
 +++++++++
 The equation (1) shows the Distance Driven for TRMBUSHYBD02, for every scenario.
 
-DistanceDriven=65460 [km/year]   (1)
+DistanceDriven=25847 [km/year]   (1)
 
 Source:
    This is the source. 
@@ -83,11 +83,11 @@ EmissionActivityRatio=0.1    (2)
 
 The equation (3) shows the Emission Activity Ratio for TRMBUSHYBD02, for every scenario and associated to the emission Congestion.
 
-EmissionActivityRatio=0.16    (3)
+EmissionActivityRatio=0.081    (3)
 
 The equation (4) shows the Emission Activity Ratio for TRMBUSHYBD02, for every scenario and associated to the emission Health.
 
-EmissionActivityRatio=0.03    (4)
+EmissionActivityRatio=0.01    (4)
 
 Source:
    This is the source. 
@@ -99,7 +99,7 @@ FixedCost[r,t,y]
 +++++++++
 The equation (5) shows the Fixed Cost for TRMBUSHYBD02, for every scenario.
 
-FixedCost=85.89 [M$/Gvkm]   (5)
+FixedCost=89.58 [M$/Gvkm]   (5)
 
 Source:
    This is the source. 
@@ -111,7 +111,7 @@ InputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (6) shows the Input Activity Ratio for TRMBUSHYBD02, for every scenario and associated to the fuel Electricity for public transport and Diesel for public transport. 
 
-InputActivityRatio=4.79 [PJ/Gvkm]   (6)
+InputActivityRatio=2.15 [PJ/Gvkm]   (6)
 
 Source:
    This is the source. 
@@ -178,7 +178,7 @@ UnitFixedCost[r,t,y]
 +++++++++
 The equation (9) shows the Unit Fixed Cost for TRMBUSHYBD02, for every scenario.
 
-UnitFixedCost=3710.7572 [$]   (9)
+UnitFixedCost=2315.3743 [$]   (9)
 
 Source:
    This is the source. 
