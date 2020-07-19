@@ -155,13 +155,13 @@ Description:
    
 TotalTechnologyAnnualActivityLowerLimit[r,t,y]
 +++++++++   
-The figure 3 shows the Total Technology Annual Activity Lower Limit for TRMBUSHYD02, for OP15C scenario.
+The figure 3 shows the Total Technology Annual Activity Lower Limit for TRMBUSHYD02, for NDP scenario.
 
-.. figure:: img/TRMBUSHYD02_TotalTechnologyAnnualActivityLowerLimit_OP.png
+.. figure:: img/TRMBUSHYD02_TotalTechnologyAnnualActivityLowerLimit_NDP.png
    :align:   center
    :width:   700 px
    
-   *Figure 3) Total Technology Annual Activity Lower Limit for TRMBUSHYD02 for OP15C scenario.*
+   *Figure 3) Total Technology Annual Activity Lower Limit for TRMBUSHYD02 for NDP scenario.*
 
 Source:
    This is the source. 
