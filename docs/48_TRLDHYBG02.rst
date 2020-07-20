@@ -97,8 +97,6 @@ Description:
    
 InputActivityRatio[r,t,f,m,y]
 +++++++++
-InputActivityRatio[r,t,f,m,y]
-+++++++++
 The equation (6) shows the Input Activity Ratio for TRLDHYBG02, for every scenario and associated to the fuel Electricity for public transport and Gasoline for public transport. 
 
 InputActivityRatio=0.42 [PJ/Gvkm]   (6)
