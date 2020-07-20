@@ -95,8 +95,7 @@ Source:
 Description: 
    This is the description.
    
-InputActivityRatio[r,t,f,m,y]
-+++++++++
+
 InputActivityRatio[r,t,f,m,y]
 +++++++++
 The equation (6) shows the Input Activity Ratio for TRFWDHYBD02, for every scenario and associated to the fuel Electricity for public transport and Diesel for public transport. 
