@@ -128,15 +128,15 @@ Source:
 Description: 
    This is the description.      
    
-TotalTechnologyAnnualActivityLowerLimit[r,t,y]
+TotalAnnualMaxCapacity[r,t,y] 
 +++++++++
-The figure 1 shows the Total Technology Annual Activity Lower Limit for TRMIVLPG02, for every scenario.
+The figure 1 shows the Total Annual Max Capacity for TRMIVLPG02, for every scenario.
 
-.. figure:: img/TRMIVLPG02_TotalTechnologyAnnualActivityLowerLimit.png
+.. figure:: img/TRMIVLPG02_TotalAnnualMaxCapacity.png
    :align:   center
    :width:   700 px
    
-   *Figure 1) Total Technology Annual Activity Lower Limit for TRMIVLPG02 for every scenario.*
+   *Figure 1) Total Annual Max Capacity for TRMIVLPG02 for every scenario.*
 
 Source:
    This is the source. 
