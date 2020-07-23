@@ -107,9 +107,9 @@ Description:
    
 OperationalLife[r,t]
 +++++++++
-The equation (6) shows the Operational Life for TRMBUSDSL01, for every scenario.
+The equation (7) shows the Operational Life for TRMBUSDSL01, for every scenario.
 
-OperationalLife=15 Years   (6)
+OperationalLife=15 Years   (7)
 
 Source:
    This is the source. 
@@ -119,9 +119,9 @@ Description:
    
 OutputActivityRatio[r,t,f,m,y]
 +++++++++
-The equation (7) shows the Output Activity Ratio for TRMBUSDSL01, for every scenario and associated to the fuel Public Transport in Minibus.
+The equation (8) shows the Output Activity Ratio for TRMBUSDSL01, for every scenario and associated to the fuel Public Transport in Minibus.
 
-OutputActivityRatio=1 [PJ/Gvkm]   (7)
+OutputActivityRatio=1 [PJ/Gvkm]   (8)
 
 Source:
    This is the source. 
@@ -203,9 +203,9 @@ Description:
    
 UnitFixedCost[r,t,y]
 +++++++++
-The equation (8) shows the Unit Fixed Cost for TRMBUSDSL01, for every scenario.
+The equation (9) shows the Unit Fixed Cost for TRMBUSDSL01, for every scenario.
 
-UnitFixedCost=4630.7485 [$]   (8)
+UnitFixedCost=4630.7485 [$]   (9)
 
 Source:
    This is the source. 
