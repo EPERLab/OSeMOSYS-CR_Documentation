@@ -183,7 +183,7 @@ The figure 5 shows the Total Technology Annual Activity Lower Limit for TRTAXGAS
    
 The figure 6 shows the Total Technology Annual Activity Lower Limit for TRTAXGAS01, for NDP scenario.
 
-.. figure:: img/TRTAXGAS01_TotalTechnologyAnnualActivityLowerLimit_NDP_OP.png
+.. figure:: img/TRTAXGAS01_TotalTechnologyAnnualActivityLowerLimit_NDP.png
    :align:   center
    :width:   700 px
    
